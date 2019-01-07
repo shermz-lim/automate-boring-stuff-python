@@ -6,13 +6,17 @@
 import os, sys, openpyxl
 
 # Make sure command line argument is valid 
-filename = sys.argv[3]
+
 try:
     assert len(sys.argv) == 4
     assert (type(int(sys.argv[1])) == int and type(int(sys.argv[2])) == int)
-    assert (os.path.exists(filename))
+    assert (os.path.exists(sys.argv[3]))
+    assert sys.argv[3].endswith('.xlsx')
 except AssertionError:
-    print("Command line argument is not valid. Try again. Insert 3 arguments: Row number to start insertion, Number of rows to insert, and file you want to have rows inserted.")    
+    print("Command line argument is not valid. Try again. Insert 3 arguments: Row number to start insertion, Number of rows to insert, and excel file you want to have rows inserted.") 
+    quit()   
+
+filename = sys.argv[3]
 
 N = int(sys.argv[1])
 M = int(sys.argv[2])
