@@ -1,0 +1,355 @@
+Name:
+Class:
+Period:
+                    State Capital Quiz (Form: 5)
+
+Question 1: 
+The capital of Hawaii is: 
+1: Honolulu
+2: Cheyenne
+3: Charleston
+4: Boise
+
+Question 2: 
+The capital of Georgia is: 
+1: Atlanta
+2: Jefferson City
+3: Concord
+4: Phoenix
+
+Question 3: 
+The capital of Nebraska is: 
+1: Lansing
+2: Topeka
+3: Lincoln
+4: Little Rock
+
+Question 4: 
+The capital of Iowa is: 
+1: Des Moines
+2: Montgomery
+3: Sacramento
+4: Indianapolis
+
+Question 5: 
+The capital of California is: 
+1: Oklahoma City
+2: Nashville
+3: Santa Fe
+4: Sacramento
+
+Question 6: 
+The capital of Michigan is: 
+1: Springfield
+2: Oklahoma City
+3: Austin
+4: Lansing
+
+Question 7: 
+The capital of Nevada is: 
+1: Richmond
+2: Carson City
+3: Providence
+4: Olympia
+
+Question 8: 
+The capital of Virginia is: 
+1: Dover
+2: Helena
+3: Augusta
+4: Richmond
+
+Question 9: 
+The capital of Arkansas is: 
+1: Little Rock
+2: Concord
+3: Harrisburg
+4: Honolulu
+
+Question 10: 
+The capital of Illinois is: 
+1: Springfield
+2: Annapolis
+3: Topeka
+4: Little Rock
+
+Question 11: 
+The capital of Minnesota is: 
+1: Topeka
+2: Saint Paul
+3: Madison
+4: Columbus
+
+Question 12: 
+The capital of Wisconsin is: 
+1: Saint Paul
+2: Frankfort
+3: Salem
+4: Madison
+
+Question 13: 
+The capital of Washington is: 
+1: Montpelier
+2: Sacramento
+3: Olympia
+4: Topeka
+
+Question 14: 
+The capital of Colorado is: 
+1: Denver
+2: Sacramento
+3: Phoenix
+4: Salt Lake City
+
+Question 15: 
+The capital of Vermont is: 
+1: Montpelier
+2: Charleston
+3: Raleigh
+4: Des Moines
+
+Question 16: 
+The capital of Kentucky is: 
+1: Indianapolis
+2: Frankfort
+3: Jefferson City
+4: Atlanta
+
+Question 17: 
+The capital of Kansas is: 
+1: Topeka
+2: Helena
+3: Honolulu
+4: Albany
+
+Question 18: 
+The capital of Texas is: 
+1: Indianapolis
+2: Montgomery
+3: Tallahassee
+4: Austin
+
+Question 19: 
+The capital of Louisiana is: 
+1: Des Moines
+2: Baton Rouge
+3: Juneau
+4: Montpelier
+
+Question 20: 
+The capital of New Jersey is: 
+1: Topeka
+2: Raleigh
+3: Pierre
+4: Trenton
+
+Question 21: 
+The capital of Indiana is: 
+1: Indianapolis
+2: Santa Fe
+3: Pierre
+4: Columbia
+
+Question 22: 
+The capital of Wyoming is: 
+1: Pierre
+2: Raleigh
+3: Augusta
+4: Cheyenne
+
+Question 23: 
+The capital of Delaware is: 
+1: Dover
+2: Augusta
+3: Columbia
+4: Salem
+
+Question 24: 
+The capital of New Mexico is: 
+1: Hartford
+2: Santa Fe
+3: Charleston
+4: Phoenix
+
+Question 25: 
+The capital of West Virginia is: 
+1: Little Rock
+2: Charleston
+3: Saint Paul
+4: Providence
+
+Question 26: 
+The capital of South Carolina is: 
+1: Columbia
+2: Hartford
+3: Providence
+4: Montpelier
+
+Question 27: 
+The capital of Utah is: 
+1: Concord
+2: Richmond
+3: Montpelier
+4: Salt Lake City
+
+Question 28: 
+The capital of Alaska is: 
+1: Charleston
+2: Oklahoma City
+3: Cheyenne
+4: Juneau
+
+Question 29: 
+The capital of North Dakota is: 
+1: Honolulu
+2: Saint Paul
+3: Little Rock
+4: Bismarck
+
+Question 30: 
+The capital of Maryland is: 
+1: Denver
+2: Concord
+3: Baton Rouge
+4: Annapolis
+
+Question 31: 
+The capital of Tennessee is: 
+1: Juneau
+2: Indianapolis
+3: Atlanta
+4: Nashville
+
+Question 32: 
+The capital of Rhode Island is: 
+1: Concord
+2: Providence
+3: Helena
+4: Little Rock
+
+Question 33: 
+The capital of Maine is: 
+1: Salt Lake City
+2: Bismarck
+3: Augusta
+4: Dover
+
+Question 34: 
+The capital of Pennsylvania is: 
+1: Salem
+2: Tallahassee
+3: Harrisburg
+4: Pierre
+
+Question 35: 
+The capital of Alabama is: 
+1: Richmond
+2: Carson City
+3: Montgomery
+4: Salt Lake City
+
+Question 36: 
+The capital of South Dakota is: 
+1: Boston
+2: Jackson
+3: Pierre
+4: Sacramento
+
+Question 37: 
+The capital of Oregon is: 
+1: Honolulu
+2: Salem
+3: Santa Fe
+4: Concord
+
+Question 38: 
+The capital of New Hampshire is: 
+1: Concord
+2: Harrisburg
+3: Columbus
+4: Madison
+
+Question 39: 
+The capital of Ohio is: 
+1: Columbus
+2: Saint Paul
+3: Nashville
+4: Jefferson City
+
+Question 40: 
+The capital of New York is: 
+1: Boise
+2: Des Moines
+3: Springfield
+4: Albany
+
+Question 41: 
+The capital of Missouri is: 
+1: Lincoln
+2: Harrisburg
+3: Olympia
+4: Jefferson City
+
+Question 42: 
+The capital of Connecticut is: 
+1: Hartford
+2: Raleigh
+3: Carson City
+4: Atlanta
+
+Question 43: 
+The capital of Mississippi is: 
+1: Jefferson City
+2: Boston
+3: Trenton
+4: Jackson
+
+Question 44: 
+The capital of Arizona is: 
+1: Lincoln
+2: Denver
+3: Phoenix
+4: Oklahoma City
+
+Question 45: 
+The capital of Montana is: 
+1: Pierre
+2: Richmond
+3: Olympia
+4: Helena
+
+Question 46: 
+The capital of Massachusetts is: 
+1: Charleston
+2: Olympia
+3: Pierre
+4: Boston
+
+Question 47: 
+The capital of Florida is: 
+1: Tallahassee
+2: Albany
+3: Augusta
+4: Raleigh
+
+Question 48: 
+The capital of North Carolina is: 
+1: Topeka
+2: Raleigh
+3: Denver
+4: Honolulu
+
+Question 49: 
+The capital of Oklahoma is: 
+1: Saint Paul
+2: Cheyenne
+3: Montgomery
+4: Oklahoma City
+
+Question 50: 
+The capital of Idaho is: 
+1: Montpelier
+2: Topeka
+3: Madison
+4: Boise
+

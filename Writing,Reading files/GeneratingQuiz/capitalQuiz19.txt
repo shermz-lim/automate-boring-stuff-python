@@ -1,0 +1,355 @@
+Name:
+Class:
+Period:
+                    State Capital Quiz (Form: 19)
+
+Question 1: 
+The capital of Oklahoma is: 
+1: Annapolis
+2: Denver
+3: Oklahoma City
+4: Santa Fe
+
+Question 2: 
+The capital of Ohio is: 
+1: Jackson
+2: Santa Fe
+3: Raleigh
+4: Columbus
+
+Question 3: 
+The capital of Arizona is: 
+1: Phoenix
+2: Carson City
+3: Indianapolis
+4: Charleston
+
+Question 4: 
+The capital of Nebraska is: 
+1: Atlanta
+2: Lincoln
+3: Raleigh
+4: Lansing
+
+Question 5: 
+The capital of Maine is: 
+1: Raleigh
+2: Augusta
+3: Honolulu
+4: Salt Lake City
+
+Question 6: 
+The capital of Oregon is: 
+1: Phoenix
+2: Salem
+3: Oklahoma City
+4: Indianapolis
+
+Question 7: 
+The capital of Utah is: 
+1: Phoenix
+2: Columbus
+3: Sacramento
+4: Salt Lake City
+
+Question 8: 
+The capital of Kansas is: 
+1: Madison
+2: Topeka
+3: Montgomery
+4: Richmond
+
+Question 9: 
+The capital of California is: 
+1: Boise
+2: Richmond
+3: Tallahassee
+4: Sacramento
+
+Question 10: 
+The capital of Wisconsin is: 
+1: Raleigh
+2: Concord
+3: Madison
+4: Tallahassee
+
+Question 11: 
+The capital of Connecticut is: 
+1: Tallahassee
+2: Montpelier
+3: Hartford
+4: Honolulu
+
+Question 12: 
+The capital of New Jersey is: 
+1: Tallahassee
+2: Trenton
+3: Olympia
+4: Madison
+
+Question 13: 
+The capital of Massachusetts is: 
+1: Boston
+2: Cheyenne
+3: Saint Paul
+4: Montpelier
+
+Question 14: 
+The capital of Wyoming is: 
+1: Hartford
+2: Topeka
+3: Cheyenne
+4: Saint Paul
+
+Question 15: 
+The capital of North Carolina is: 
+1: Boise
+2: Helena
+3: Raleigh
+4: Salt Lake City
+
+Question 16: 
+The capital of Rhode Island is: 
+1: Springfield
+2: Providence
+3: Salem
+4: Baton Rouge
+
+Question 17: 
+The capital of Tennessee is: 
+1: Dover
+2: Nashville
+3: Denver
+4: Austin
+
+Question 18: 
+The capital of Florida is: 
+1: Salem
+2: Tallahassee
+3: Springfield
+4: Jefferson City
+
+Question 19: 
+The capital of Mississippi is: 
+1: Juneau
+2: Des Moines
+3: Jackson
+4: Olympia
+
+Question 20: 
+The capital of Idaho is: 
+1: Little Rock
+2: Boise
+3: Concord
+4: Albany
+
+Question 21: 
+The capital of Minnesota is: 
+1: Santa Fe
+2: Saint Paul
+3: Raleigh
+4: Cheyenne
+
+Question 22: 
+The capital of New Mexico is: 
+1: Helena
+2: Montpelier
+3: Austin
+4: Santa Fe
+
+Question 23: 
+The capital of Pennsylvania is: 
+1: Albany
+2: Harrisburg
+3: Concord
+4: Phoenix
+
+Question 24: 
+The capital of Alabama is: 
+1: Montgomery
+2: Columbus
+3: Nashville
+4: Carson City
+
+Question 25: 
+The capital of Nevada is: 
+1: Saint Paul
+2: Hartford
+3: Concord
+4: Carson City
+
+Question 26: 
+The capital of Delaware is: 
+1: Dover
+2: Nashville
+3: Lansing
+4: Indianapolis
+
+Question 27: 
+The capital of Missouri is: 
+1: Jefferson City
+2: Lansing
+3: Boise
+4: Denver
+
+Question 28: 
+The capital of North Dakota is: 
+1: Lincoln
+2: Nashville
+3: Bismarck
+4: Columbus
+
+Question 29: 
+The capital of Kentucky is: 
+1: Richmond
+2: Madison
+3: Nashville
+4: Frankfort
+
+Question 30: 
+The capital of Colorado is: 
+1: Little Rock
+2: Nashville
+3: Juneau
+4: Denver
+
+Question 31: 
+The capital of Illinois is: 
+1: Helena
+2: Charleston
+3: Springfield
+4: Juneau
+
+Question 32: 
+The capital of Vermont is: 
+1: Bismarck
+2: Montpelier
+3: Oklahoma City
+4: Saint Paul
+
+Question 33: 
+The capital of Virginia is: 
+1: Charleston
+2: Bismarck
+3: Richmond
+4: Tallahassee
+
+Question 34: 
+The capital of Alaska is: 
+1: Charleston
+2: Juneau
+3: Santa Fe
+4: Madison
+
+Question 35: 
+The capital of Arkansas is: 
+1: Honolulu
+2: Trenton
+3: Little Rock
+4: Lincoln
+
+Question 36: 
+The capital of New York is: 
+1: Albany
+2: Carson City
+3: Des Moines
+4: Austin
+
+Question 37: 
+The capital of South Dakota is: 
+1: Baton Rouge
+2: Cheyenne
+3: Nashville
+4: Pierre
+
+Question 38: 
+The capital of Georgia is: 
+1: Springfield
+2: Richmond
+3: Harrisburg
+4: Atlanta
+
+Question 39: 
+The capital of New Hampshire is: 
+1: Boston
+2: Honolulu
+3: Concord
+4: Frankfort
+
+Question 40: 
+The capital of Hawaii is: 
+1: Montgomery
+2: Honolulu
+3: Juneau
+4: Lansing
+
+Question 41: 
+The capital of South Carolina is: 
+1: Indianapolis
+2: Albany
+3: Denver
+4: Columbia
+
+Question 42: 
+The capital of Maryland is: 
+1: Madison
+2: Columbia
+3: Annapolis
+4: Frankfort
+
+Question 43: 
+The capital of Texas is: 
+1: Dover
+2: Albany
+3: Austin
+4: Jackson
+
+Question 44: 
+The capital of Montana is: 
+1: Baton Rouge
+2: Little Rock
+3: Boston
+4: Helena
+
+Question 45: 
+The capital of Louisiana is: 
+1: Lansing
+2: Augusta
+3: Columbia
+4: Baton Rouge
+
+Question 46: 
+The capital of Indiana is: 
+1: Indianapolis
+2: Saint Paul
+3: Augusta
+4: Montpelier
+
+Question 47: 
+The capital of West Virginia is: 
+1: Baton Rouge
+2: Augusta
+3: Denver
+4: Charleston
+
+Question 48: 
+The capital of Washington is: 
+1: Oklahoma City
+2: Augusta
+3: Juneau
+4: Olympia
+
+Question 49: 
+The capital of Iowa is: 
+1: Topeka
+2: Augusta
+3: Hartford
+4: Des Moines
+
+Question 50: 
+The capital of Michigan is: 
+1: Springfield
+2: Carson City
+3: Lansing
+4: Juneau
+
