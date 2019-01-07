@@ -1,0 +1,3398 @@
+AL
+=======================
+Autauga: Total census tracts = 12, population = 54571.
+Baldwin: Total census tracts = 31, population = 182265.
+Barbour: Total census tracts = 9, population = 27457.
+Bibb: Total census tracts = 4, population = 22915.
+Blount: Total census tracts = 9, population = 57322.
+Bullock: Total census tracts = 3, population = 10914.
+Butler: Total census tracts = 9, population = 20947.
+Calhoun: Total census tracts = 31, population = 118572.
+Chambers: Total census tracts = 9, population = 34215.
+Cherokee: Total census tracts = 6, population = 25989.
+Chilton: Total census tracts = 9, population = 43643.
+Choctaw: Total census tracts = 4, population = 13859.
+Clarke: Total census tracts = 9, population = 25833.
+Clay: Total census tracts = 4, population = 13932.
+Cleburne: Total census tracts = 4, population = 14972.
+Coffee: Total census tracts = 14, population = 49948.
+Colbert: Total census tracts = 14, population = 54428.
+Conecuh: Total census tracts = 5, population = 13228.
+Coosa: Total census tracts = 3, population = 11539.
+Covington: Total census tracts = 14, population = 37765.
+Crenshaw: Total census tracts = 6, population = 13906.
+Cullman: Total census tracts = 18, population = 80406.
+Dale: Total census tracts = 14, population = 50251.
+Dallas: Total census tracts = 15, population = 43820.
+DeKalb: Total census tracts = 14, population = 71109.
+Elmore: Total census tracts = 15, population = 79303.
+Escambia: Total census tracts = 9, population = 38319.
+Etowah: Total census tracts = 30, population = 104430.
+Fayette: Total census tracts = 5, population = 17241.
+Franklin: Total census tracts = 9, population = 31704.
+Geneva: Total census tracts = 6, population = 26790.
+Greene: Total census tracts = 3, population = 9045.
+Hale: Total census tracts = 6, population = 15760.
+Henry: Total census tracts = 6, population = 17302.
+Houston: Total census tracts = 22, population = 101547.
+Jackson: Total census tracts = 11, population = 53227.
+Jefferson: Total census tracts = 163, population = 658466.
+Lamar: Total census tracts = 3, population = 14564.
+Lauderdale: Total census tracts = 22, population = 92709.
+Lawrence: Total census tracts = 9, population = 34339.
+Lee: Total census tracts = 27, population = 140247.
+Limestone: Total census tracts = 16, population = 82782.
+Lowndes: Total census tracts = 4, population = 11299.
+Macon: Total census tracts = 12, population = 21452.
+Madison: Total census tracts = 73, population = 334811.
+Marengo: Total census tracts = 6, population = 21027.
+Marion: Total census tracts = 8, population = 30776.
+Marshall: Total census tracts = 18, population = 93019.
+Mobile: Total census tracts = 114, population = 412992.
+Monroe: Total census tracts = 7, population = 23068.
+Montgomery: Total census tracts = 65, population = 229363.
+Morgan: Total census tracts = 27, population = 119490.
+Perry: Total census tracts = 3, population = 10591.
+Pickens: Total census tracts = 5, population = 19746.
+Pike: Total census tracts = 8, population = 32899.
+Randolph: Total census tracts = 6, population = 22913.
+Russell: Total census tracts = 13, population = 52947.
+St. Clair: Total census tracts = 13, population = 83593.
+Shelby: Total census tracts = 48, population = 195085.
+Sumter: Total census tracts = 4, population = 13763.
+Talladega: Total census tracts = 22, population = 82291.
+Tallapoosa: Total census tracts = 10, population = 41616.
+Tuscaloosa: Total census tracts = 47, population = 194656.
+Walker: Total census tracts = 18, population = 67023.
+Washington: Total census tracts = 5, population = 17581.
+Wilcox: Total census tracts = 4, population = 11670.
+Winston: Total census tracts = 7, population = 24484.
+=======================
+
+
+AK
+=======================
+Aleutians East: Total census tracts = 1, population = 3141.
+Aleutians West: Total census tracts = 2, population = 5561.
+Anchorage: Total census tracts = 55, population = 291826.
+Bethel: Total census tracts = 3, population = 17013.
+Bristol Bay: Total census tracts = 1, population = 997.
+Denali: Total census tracts = 1, population = 1826.
+Dillingham: Total census tracts = 2, population = 4847.
+Fairbanks North Star: Total census tracts = 19, population = 97581.
+Haines: Total census tracts = 1, population = 2508.
+Hoonah-Angoon: Total census tracts = 2, population = 2150.
+Juneau: Total census tracts = 6, population = 31275.
+Kenai Peninsula: Total census tracts = 13, population = 55400.
+Ketchikan Gateway: Total census tracts = 4, population = 13477.
+Kodiak Island: Total census tracts = 5, population = 13592.
+Lake and Peninsula: Total census tracts = 1, population = 1631.
+Matanuska-Susitna: Total census tracts = 24, population = 88995.
+Nome: Total census tracts = 2, population = 9492.
+North Slope: Total census tracts = 3, population = 9430.
+Northwest Arctic: Total census tracts = 2, population = 7523.
+Petersburg: Total census tracts = 1, population = 3815.
+Prince of Wales-Hyder: Total census tracts = 4, population = 5559.
+Sitka: Total census tracts = 2, population = 8881.
+Skagway: Total census tracts = 1, population = 968.
+Southeast Fairbanks: Total census tracts = 2, population = 7029.
+Valdez-Cordova: Total census tracts = 3, population = 9636.
+Wade Hampton: Total census tracts = 1, population = 7459.
+Wrangell: Total census tracts = 1, population = 2369.
+Yakutat: Total census tracts = 1, population = 662.
+Yukon-Koyukuk: Total census tracts = 4, population = 5588.
+=======================
+
+
+AZ
+=======================
+Apache: Total census tracts = 16, population = 71518.
+Cochise: Total census tracts = 32, population = 131346.
+Coconino: Total census tracts = 28, population = 134421.
+Gila: Total census tracts = 16, population = 53597.
+Graham: Total census tracts = 9, population = 37220.
+Greenlee: Total census tracts = 3, population = 8437.
+La Paz: Total census tracts = 9, population = 20489.
+Maricopa: Total census tracts = 916, population = 3817117.
+Mohave: Total census tracts = 43, population = 200186.
+Navajo: Total census tracts = 31, population = 107449.
+Pima: Total census tracts = 241, population = 980263.
+Pinal: Total census tracts = 75, population = 375770.
+Santa Cruz: Total census tracts = 10, population = 47420.
+Yavapai: Total census tracts = 42, population = 211033.
+Yuma: Total census tracts = 55, population = 195751.
+=======================
+
+
+AR
+=======================
+Arkansas: Total census tracts = 8, population = 19019.
+Ashley: Total census tracts = 7, population = 21853.
+Baxter: Total census tracts = 9, population = 41513.
+Benton: Total census tracts = 49, population = 221339.
+Boone: Total census tracts = 7, population = 36903.
+Bradley: Total census tracts = 5, population = 11508.
+Calhoun: Total census tracts = 2, population = 5368.
+Carroll: Total census tracts = 5, population = 27446.
+Chicot: Total census tracts = 4, population = 11800.
+Clark: Total census tracts = 5, population = 22995.
+Clay: Total census tracts = 6, population = 16083.
+Cleburne: Total census tracts = 7, population = 25970.
+Cleveland: Total census tracts = 2, population = 8689.
+Columbia: Total census tracts = 5, population = 24552.
+Conway: Total census tracts = 6, population = 21273.
+Craighead: Total census tracts = 17, population = 96443.
+Crawford: Total census tracts = 11, population = 61948.
+Crittenden: Total census tracts = 20, population = 50902.
+Cross: Total census tracts = 6, population = 17870.
+Dallas: Total census tracts = 3, population = 8116.
+Desha: Total census tracts = 5, population = 13008.
+Drew: Total census tracts = 5, population = 18509.
+Faulkner: Total census tracts = 25, population = 113237.
+Franklin: Total census tracts = 3, population = 18125.
+Fulton: Total census tracts = 2, population = 12245.
+Garland: Total census tracts = 20, population = 96024.
+Grant: Total census tracts = 4, population = 17853.
+Greene: Total census tracts = 9, population = 42090.
+Hempstead: Total census tracts = 5, population = 22609.
+Hot Spring: Total census tracts = 7, population = 32923.
+Howard: Total census tracts = 3, population = 13789.
+Independence: Total census tracts = 8, population = 36647.
+Izard: Total census tracts = 4, population = 13696.
+Jackson: Total census tracts = 5, population = 17997.
+Jefferson: Total census tracts = 24, population = 77435.
+Johnson: Total census tracts = 6, population = 25540.
+Lafayette: Total census tracts = 2, population = 7645.
+Lawrence: Total census tracts = 6, population = 17415.
+Lee: Total census tracts = 4, population = 10424.
+Lincoln: Total census tracts = 4, population = 14134.
+Little River: Total census tracts = 4, population = 13171.
+Logan: Total census tracts = 6, population = 22353.
+Lonoke: Total census tracts = 16, population = 68356.
+Madison: Total census tracts = 4, population = 15717.
+Marion: Total census tracts = 4, population = 16653.
+Miller: Total census tracts = 12, population = 43462.
+Mississippi: Total census tracts = 12, population = 46480.
+Monroe: Total census tracts = 3, population = 8149.
+Montgomery: Total census tracts = 3, population = 9487.
+Nevada: Total census tracts = 3, population = 8997.
+Newton: Total census tracts = 2, population = 8330.
+Ouachita: Total census tracts = 6, population = 26120.
+Perry: Total census tracts = 3, population = 10445.
+Phillips: Total census tracts = 6, population = 21757.
+Pike: Total census tracts = 3, population = 11291.
+Poinsett: Total census tracts = 7, population = 24583.
+Polk: Total census tracts = 6, population = 20662.
+Pope: Total census tracts = 11, population = 61754.
+Prairie: Total census tracts = 3, population = 8715.
+Pulaski: Total census tracts = 95, population = 382748.
+Randolph: Total census tracts = 4, population = 17969.
+St. Francis: Total census tracts = 6, population = 28258.
+Saline: Total census tracts = 21, population = 107118.
+Scott: Total census tracts = 3, population = 11233.
+Searcy: Total census tracts = 3, population = 8195.
+Sebastian: Total census tracts = 26, population = 125744.
+Sevier: Total census tracts = 4, population = 17058.
+Sharp: Total census tracts = 4, population = 17264.
+Stone: Total census tracts = 3, population = 12394.
+Union: Total census tracts = 10, population = 41639.
+Van Buren: Total census tracts = 5, population = 17295.
+Washington: Total census tracts = 32, population = 203065.
+White: Total census tracts = 13, population = 77076.
+Woodruff: Total census tracts = 2, population = 7260.
+Yell: Total census tracts = 6, population = 22185.
+=======================
+
+
+CA
+=======================
+Alameda: Total census tracts = 360, population = 1510271.
+Alpine: Total census tracts = 1, population = 1175.
+Amador: Total census tracts = 9, population = 38091.
+Butte: Total census tracts = 51, population = 220000.
+Calaveras: Total census tracts = 10, population = 45578.
+Colusa: Total census tracts = 5, population = 21419.
+Contra Costa: Total census tracts = 208, population = 1049025.
+Del Norte: Total census tracts = 7, population = 28610.
+El Dorado: Total census tracts = 43, population = 181058.
+Fresno: Total census tracts = 199, population = 930450.
+Glenn: Total census tracts = 6, population = 28122.
+Humboldt: Total census tracts = 30, population = 134623.
+Imperial: Total census tracts = 31, population = 174528.
+Inyo: Total census tracts = 6, population = 18546.
+Kern: Total census tracts = 151, population = 839631.
+Kings: Total census tracts = 27, population = 152982.
+Lake: Total census tracts = 15, population = 64665.
+Lassen: Total census tracts = 9, population = 34895.
+Los Angeles: Total census tracts = 2343, population = 9818605.
+Madera: Total census tracts = 23, population = 150865.
+Marin: Total census tracts = 55, population = 252409.
+Mariposa: Total census tracts = 6, population = 18251.
+Mendocino: Total census tracts = 20, population = 87841.
+Merced: Total census tracts = 49, population = 255793.
+Modoc: Total census tracts = 4, population = 9686.
+Mono: Total census tracts = 3, population = 14202.
+Monterey: Total census tracts = 93, population = 415057.
+Napa: Total census tracts = 40, population = 136484.
+Nevada: Total census tracts = 20, population = 98764.
+Orange: Total census tracts = 583, population = 3010232.
+Placer: Total census tracts = 85, population = 348432.
+Plumas: Total census tracts = 7, population = 20007.
+Riverside: Total census tracts = 453, population = 2189641.
+Sacramento: Total census tracts = 317, population = 1418788.
+San Benito: Total census tracts = 11, population = 55269.
+San Bernardino: Total census tracts = 369, population = 2035210.
+San Diego: Total census tracts = 628, population = 3095313.
+San Francisco: Total census tracts = 196, population = 805235.
+San Joaquin: Total census tracts = 139, population = 685306.
+San Luis Obispo: Total census tracts = 53, population = 269637.
+San Mateo: Total census tracts = 158, population = 718451.
+Santa Barbara: Total census tracts = 90, population = 423895.
+Santa Clara: Total census tracts = 372, population = 1781642.
+Santa Cruz: Total census tracts = 52, population = 262382.
+Shasta: Total census tracts = 48, population = 177223.
+Sierra: Total census tracts = 1, population = 3240.
+Siskiyou: Total census tracts = 14, population = 44900.
+Solano: Total census tracts = 96, population = 413344.
+Sonoma: Total census tracts = 99, population = 483878.
+Stanislaus: Total census tracts = 94, population = 514453.
+Sutter: Total census tracts = 21, population = 94737.
+Tehama: Total census tracts = 11, population = 63463.
+Trinity: Total census tracts = 5, population = 13786.
+Tulare: Total census tracts = 78, population = 442179.
+Tuolumne: Total census tracts = 11, population = 55365.
+Ventura: Total census tracts = 174, population = 823318.
+Yolo: Total census tracts = 41, population = 200849.
+Yuba: Total census tracts = 14, population = 72155.
+=======================
+
+
+CO
+=======================
+Adams: Total census tracts = 97, population = 441603.
+Alamosa: Total census tracts = 4, population = 15445.
+Arapahoe: Total census tracts = 147, population = 572003.
+Archuleta: Total census tracts = 4, population = 12084.
+Baca: Total census tracts = 2, population = 3788.
+Bent: Total census tracts = 1, population = 6499.
+Boulder: Total census tracts = 68, population = 294567.
+Broomfield: Total census tracts = 18, population = 55889.
+Chaffee: Total census tracts = 5, population = 17809.
+Cheyenne: Total census tracts = 1, population = 1836.
+Clear Creek: Total census tracts = 3, population = 9088.
+Conejos: Total census tracts = 2, population = 8256.
+Costilla: Total census tracts = 2, population = 3524.
+Crowley: Total census tracts = 1, population = 5823.
+Custer: Total census tracts = 1, population = 4255.
+Delta: Total census tracts = 7, population = 30952.
+Denver: Total census tracts = 144, population = 600158.
+Dolores: Total census tracts = 1, population = 2064.
+Douglas: Total census tracts = 61, population = 285465.
+Eagle: Total census tracts = 14, population = 52197.
+Elbert: Total census tracts = 7, population = 23086.
+El Paso: Total census tracts = 130, population = 622263.
+Fremont: Total census tracts = 14, population = 46824.
+Garfield: Total census tracts = 11, population = 56389.
+Gilpin: Total census tracts = 1, population = 5441.
+Grand: Total census tracts = 3, population = 14843.
+Gunnison: Total census tracts = 4, population = 15324.
+Hinsdale: Total census tracts = 1, population = 843.
+Huerfano: Total census tracts = 2, population = 6711.
+Jackson: Total census tracts = 1, population = 1394.
+Jefferson: Total census tracts = 138, population = 534543.
+Kiowa: Total census tracts = 1, population = 1398.
+Kit Carson: Total census tracts = 3, population = 8270.
+Lake: Total census tracts = 2, population = 7310.
+La Plata: Total census tracts = 10, population = 51334.
+Larimer: Total census tracts = 73, population = 299630.
+Las Animas: Total census tracts = 6, population = 15507.
+Lincoln: Total census tracts = 2, population = 5467.
+Logan: Total census tracts = 6, population = 22709.
+Mesa: Total census tracts = 29, population = 146723.
+Mineral: Total census tracts = 1, population = 712.
+Moffat: Total census tracts = 4, population = 13795.
+Montezuma: Total census tracts = 7, population = 25535.
+Montrose: Total census tracts = 10, population = 41276.
+Morgan: Total census tracts = 8, population = 28159.
+Otero: Total census tracts = 7, population = 18831.
+Ouray: Total census tracts = 1, population = 4436.
+Park: Total census tracts = 5, population = 16206.
+Phillips: Total census tracts = 2, population = 4442.
+Pitkin: Total census tracts = 4, population = 17148.
+Prowers: Total census tracts = 5, population = 12551.
+Pueblo: Total census tracts = 55, population = 159063.
+Rio Blanco: Total census tracts = 2, population = 6666.
+Rio Grande: Total census tracts = 3, population = 11982.
+Routt: Total census tracts = 8, population = 23509.
+Saguache: Total census tracts = 2, population = 6108.
+San Juan: Total census tracts = 1, population = 699.
+San Miguel: Total census tracts = 4, population = 7359.
+Sedgwick: Total census tracts = 1, population = 2379.
+Summit: Total census tracts = 5, population = 27994.
+Teller: Total census tracts = 6, population = 23350.
+Washington: Total census tracts = 2, population = 4814.
+Weld: Total census tracts = 77, population = 252825.
+Yuma: Total census tracts = 2, population = 10043.
+=======================
+
+
+CT
+=======================
+Fairfield: Total census tracts = 211, population = 916829.
+Hartford: Total census tracts = 224, population = 894014.
+Litchfield: Total census tracts = 51, population = 189927.
+Middlesex: Total census tracts = 36, population = 165676.
+New Haven: Total census tracts = 190, population = 862477.
+New London: Total census tracts = 66, population = 274055.
+Tolland: Total census tracts = 29, population = 152691.
+Windham: Total census tracts = 25, population = 118428.
+=======================
+
+
+DE
+=======================
+Kent: Total census tracts = 33, population = 162310.
+New Castle: Total census tracts = 131, population = 538479.
+Sussex: Total census tracts = 54, population = 197145.
+=======================
+
+
+DC
+=======================
+District of Columbia: Total census tracts = 179, population = 601723.
+=======================
+
+
+FL
+=======================
+Alachua: Total census tracts = 56, population = 247336.
+Baker: Total census tracts = 4, population = 27115.
+Bay: Total census tracts = 44, population = 168852.
+Bradford: Total census tracts = 4, population = 28520.
+Brevard: Total census tracts = 113, population = 543376.
+Broward: Total census tracts = 361, population = 1748066.
+Calhoun: Total census tracts = 3, population = 14625.
+Charlotte: Total census tracts = 39, population = 159978.
+Citrus: Total census tracts = 27, population = 141236.
+Clay: Total census tracts = 30, population = 190865.
+Collier: Total census tracts = 73, population = 321520.
+Columbia: Total census tracts = 12, population = 67531.
+DeSoto: Total census tracts = 9, population = 34862.
+Dixie: Total census tracts = 3, population = 16422.
+Duval: Total census tracts = 173, population = 864263.
+Escambia: Total census tracts = 71, population = 297619.
+Flagler: Total census tracts = 20, population = 95696.
+Franklin: Total census tracts = 4, population = 11549.
+Gadsden: Total census tracts = 9, population = 46389.
+Gilchrist: Total census tracts = 5, population = 16939.
+Glades: Total census tracts = 4, population = 12884.
+Gulf: Total census tracts = 3, population = 15863.
+Hamilton: Total census tracts = 3, population = 14799.
+Hardee: Total census tracts = 6, population = 27731.
+Hendry: Total census tracts = 7, population = 39140.
+Hernando: Total census tracts = 45, population = 172778.
+Highlands: Total census tracts = 27, population = 98786.
+Hillsborough: Total census tracts = 321, population = 1229226.
+Holmes: Total census tracts = 4, population = 19927.
+Indian River: Total census tracts = 30, population = 138028.
+Jackson: Total census tracts = 11, population = 49746.
+Jefferson: Total census tracts = 3, population = 14761.
+Lafayette: Total census tracts = 2, population = 8870.
+Lake: Total census tracts = 56, population = 297052.
+Lee: Total census tracts = 166, population = 618754.
+Leon: Total census tracts = 68, population = 275487.
+Levy: Total census tracts = 9, population = 40801.
+Liberty: Total census tracts = 2, population = 8365.
+Madison: Total census tracts = 5, population = 19224.
+Manatee: Total census tracts = 78, population = 322833.
+Marion: Total census tracts = 63, population = 331298.
+Martin: Total census tracts = 35, population = 146318.
+Miami-Dade: Total census tracts = 519, population = 2496435.
+Monroe: Total census tracts = 30, population = 73090.
+Nassau: Total census tracts = 12, population = 73314.
+Okaloosa: Total census tracts = 41, population = 180822.
+Okeechobee: Total census tracts = 12, population = 39996.
+Orange: Total census tracts = 207, population = 1145956.
+Osceola: Total census tracts = 41, population = 268685.
+Palm Beach: Total census tracts = 337, population = 1320134.
+Pasco: Total census tracts = 134, population = 464697.
+Pinellas: Total census tracts = 245, population = 916542.
+Polk: Total census tracts = 154, population = 602095.
+Putnam: Total census tracts = 17, population = 74364.
+St. Johns: Total census tracts = 40, population = 190039.
+St. Lucie: Total census tracts = 44, population = 277789.
+Santa Rosa: Total census tracts = 25, population = 151372.
+Sarasota: Total census tracts = 94, population = 379448.
+Seminole: Total census tracts = 86, population = 422718.
+Sumter: Total census tracts = 19, population = 93420.
+Suwannee: Total census tracts = 7, population = 41551.
+Taylor: Total census tracts = 4, population = 22570.
+Union: Total census tracts = 3, population = 15535.
+Volusia: Total census tracts = 113, population = 494593.
+Wakulla: Total census tracts = 4, population = 30776.
+Walton: Total census tracts = 11, population = 55043.
+Washington: Total census tracts = 7, population = 24896.
+=======================
+
+
+GA
+=======================
+Appling: Total census tracts = 5, population = 18236.
+Atkinson: Total census tracts = 3, population = 8375.
+Bacon: Total census tracts = 3, population = 11096.
+Baker: Total census tracts = 2, population = 3451.
+Baldwin: Total census tracts = 9, population = 45720.
+Banks: Total census tracts = 4, population = 18395.
+Barrow: Total census tracts = 18, population = 69367.
+Bartow: Total census tracts = 15, population = 100157.
+Ben Hill: Total census tracts = 5, population = 17634.
+Berrien: Total census tracts = 6, population = 19286.
+Bibb: Total census tracts = 44, population = 155547.
+Bleckley: Total census tracts = 3, population = 13063.
+Brantley: Total census tracts = 3, population = 18411.
+Brooks: Total census tracts = 5, population = 16243.
+Bryan: Total census tracts = 7, population = 30233.
+Bulloch: Total census tracts = 12, population = 70217.
+Burke: Total census tracts = 6, population = 23316.
+Butts: Total census tracts = 3, population = 23655.
+Calhoun: Total census tracts = 2, population = 6694.
+Camden: Total census tracts = 10, population = 50513.
+Candler: Total census tracts = 3, population = 10998.
+Carroll: Total census tracts = 17, population = 110527.
+Catoosa: Total census tracts = 11, population = 63942.
+Charlton: Total census tracts = 2, population = 12171.
+Chatham: Total census tracts = 72, population = 265128.
+Chattahoochee: Total census tracts = 5, population = 11267.
+Chattooga: Total census tracts = 6, population = 26015.
+Cherokee: Total census tracts = 26, population = 214346.
+Clarke: Total census tracts = 30, population = 116714.
+Clay: Total census tracts = 1, population = 3183.
+Clayton: Total census tracts = 50, population = 259424.
+Clinch: Total census tracts = 2, population = 6798.
+Cobb: Total census tracts = 120, population = 688078.
+Coffee: Total census tracts = 9, population = 42356.
+Colquitt: Total census tracts = 10, population = 45498.
+Columbia: Total census tracts = 20, population = 124053.
+Cook: Total census tracts = 4, population = 17212.
+Coweta: Total census tracts = 20, population = 127317.
+Crawford: Total census tracts = 3, population = 12630.
+Crisp: Total census tracts = 6, population = 23439.
+Dade: Total census tracts = 4, population = 16633.
+Dawson: Total census tracts = 3, population = 22330.
+Decatur: Total census tracts = 7, population = 27842.
+DeKalb: Total census tracts = 145, population = 691893.
+Dodge: Total census tracts = 6, population = 21796.
+Dooly: Total census tracts = 3, population = 14918.
+Dougherty: Total census tracts = 27, population = 94565.
+Douglas: Total census tracts = 20, population = 132403.
+Early: Total census tracts = 5, population = 11008.
+Echols: Total census tracts = 2, population = 4034.
+Effingham: Total census tracts = 10, population = 52250.
+Elbert: Total census tracts = 5, population = 20166.
+Emanuel: Total census tracts = 6, population = 22598.
+Evans: Total census tracts = 3, population = 11000.
+Fannin: Total census tracts = 5, population = 23682.
+Fayette: Total census tracts = 20, population = 106567.
+Floyd: Total census tracts = 20, population = 96317.
+Forsyth: Total census tracts = 45, population = 175511.
+Franklin: Total census tracts = 5, population = 22084.
+Fulton: Total census tracts = 204, population = 920581.
+Gilmer: Total census tracts = 5, population = 28292.
+Glascock: Total census tracts = 1, population = 3082.
+Glynn: Total census tracts = 15, population = 79626.
+Gordon: Total census tracts = 9, population = 55186.
+Grady: Total census tracts = 6, population = 25011.
+Greene: Total census tracts = 7, population = 15994.
+Gwinnett: Total census tracts = 113, population = 805321.
+Habersham: Total census tracts = 8, population = 43041.
+Hall: Total census tracts = 36, population = 179684.
+Hancock: Total census tracts = 2, population = 9429.
+Haralson: Total census tracts = 5, population = 28780.
+Harris: Total census tracts = 5, population = 32024.
+Hart: Total census tracts = 5, population = 25213.
+Heard: Total census tracts = 3, population = 11834.
+Henry: Total census tracts = 25, population = 203922.
+Houston: Total census tracts = 23, population = 139900.
+Irwin: Total census tracts = 2, population = 9538.
+Jackson: Total census tracts = 11, population = 60485.
+Jasper: Total census tracts = 3, population = 13900.
+Jeff Davis: Total census tracts = 3, population = 15068.
+Jefferson: Total census tracts = 4, population = 16930.
+Jenkins: Total census tracts = 2, population = 8340.
+Johnson: Total census tracts = 3, population = 9980.
+Jones: Total census tracts = 6, population = 28669.
+Lamar: Total census tracts = 3, population = 18317.
+Lanier: Total census tracts = 2, population = 10078.
+Laurens: Total census tracts = 13, population = 48434.
+Lee: Total census tracts = 5, population = 28298.
+Liberty: Total census tracts = 14, population = 63453.
+Lincoln: Total census tracts = 2, population = 7996.
+Long: Total census tracts = 3, population = 14464.
+Lowndes: Total census tracts = 25, population = 109233.
+Lumpkin: Total census tracts = 4, population = 29966.
+McDuffie: Total census tracts = 5, population = 21875.
+McIntosh: Total census tracts = 4, population = 14333.
+Macon: Total census tracts = 4, population = 14740.
+Madison: Total census tracts = 6, population = 28120.
+Marion: Total census tracts = 2, population = 8742.
+Meriwether: Total census tracts = 4, population = 21992.
+Miller: Total census tracts = 3, population = 6125.
+Mitchell: Total census tracts = 5, population = 23498.
+Monroe: Total census tracts = 5, population = 26424.
+Montgomery: Total census tracts = 3, population = 9123.
+Morgan: Total census tracts = 5, population = 17868.
+Murray: Total census tracts = 8, population = 39628.
+Muscogee: Total census tracts = 53, population = 189885.
+Newton: Total census tracts = 13, population = 99958.
+Oconee: Total census tracts = 6, population = 32808.
+Oglethorpe: Total census tracts = 4, population = 14899.
+Paulding: Total census tracts = 19, population = 142324.
+Peach: Total census tracts = 6, population = 27695.
+Pickens: Total census tracts = 6, population = 29431.
+Pierce: Total census tracts = 4, population = 18758.
+Pike: Total census tracts = 4, population = 17869.
+Polk: Total census tracts = 7, population = 41475.
+Pulaski: Total census tracts = 3, population = 12010.
+Putnam: Total census tracts = 5, population = 21218.
+Quitman: Total census tracts = 1, population = 2513.
+Rabun: Total census tracts = 5, population = 16276.
+Randolph: Total census tracts = 2, population = 7719.
+Richmond: Total census tracts = 47, population = 200549.
+Rockdale: Total census tracts = 15, population = 85215.
+Schley: Total census tracts = 2, population = 5010.
+Screven: Total census tracts = 5, population = 14593.
+Seminole: Total census tracts = 3, population = 8729.
+Spalding: Total census tracts = 12, population = 64073.
+Stephens: Total census tracts = 5, population = 26175.
+Stewart: Total census tracts = 2, population = 6058.
+Sumter: Total census tracts = 8, population = 32819.
+Talbot: Total census tracts = 3, population = 6865.
+Taliaferro: Total census tracts = 1, population = 1717.
+Tattnall: Total census tracts = 5, population = 25520.
+Taylor: Total census tracts = 3, population = 8906.
+Telfair: Total census tracts = 3, population = 16500.
+Terrell: Total census tracts = 4, population = 9315.
+Thomas: Total census tracts = 11, population = 44720.
+Tift: Total census tracts = 9, population = 40118.
+Toombs: Total census tracts = 6, population = 27223.
+Towns: Total census tracts = 3, population = 10471.
+Treutlen: Total census tracts = 2, population = 6885.
+Troup: Total census tracts = 14, population = 67044.
+Turner: Total census tracts = 2, population = 8930.
+Twiggs: Total census tracts = 2, population = 9023.
+Union: Total census tracts = 6, population = 21356.
+Upson: Total census tracts = 7, population = 27153.
+Walker: Total census tracts = 13, population = 68756.
+Walton: Total census tracts = 15, population = 83768.
+Ware: Total census tracts = 9, population = 36312.
+Warren: Total census tracts = 2, population = 5834.
+Washington: Total census tracts = 5, population = 21187.
+Wayne: Total census tracts = 6, population = 30099.
+Webster: Total census tracts = 2, population = 2799.
+Wheeler: Total census tracts = 2, population = 7421.
+White: Total census tracts = 5, population = 27144.
+Whitfield: Total census tracts = 18, population = 102599.
+Wilcox: Total census tracts = 4, population = 9255.
+Wilkes: Total census tracts = 4, population = 10593.
+Wilkinson: Total census tracts = 3, population = 9563.
+Worth: Total census tracts = 5, population = 21679.
+=======================
+
+
+HI
+=======================
+Hawaii: Total census tracts = 34, population = 185079.
+Honolulu: Total census tracts = 244, population = 953207.
+Kalawao: Total census tracts = 1, population = 90.
+Kauai: Total census tracts = 16, population = 67091.
+Maui: Total census tracts = 37, population = 154834.
+=======================
+
+
+ID
+=======================
+Ada: Total census tracts = 59, population = 392365.
+Adams: Total census tracts = 2, population = 3976.
+Bannock: Total census tracts = 22, population = 82839.
+Bear Lake: Total census tracts = 2, population = 5986.
+Benewah: Total census tracts = 2, population = 9285.
+Bingham: Total census tracts = 8, population = 45607.
+Blaine: Total census tracts = 4, population = 21376.
+Boise: Total census tracts = 1, population = 7028.
+Bonner: Total census tracts = 9, population = 40877.
+Bonneville: Total census tracts = 21, population = 104234.
+Boundary: Total census tracts = 2, population = 10972.
+Butte: Total census tracts = 1, population = 2891.
+Camas: Total census tracts = 1, population = 1117.
+Canyon: Total census tracts = 29, population = 188923.
+Caribou: Total census tracts = 2, population = 6963.
+Cassia: Total census tracts = 6, population = 22952.
+Clark: Total census tracts = 1, population = 982.
+Clearwater: Total census tracts = 2, population = 8761.
+Custer: Total census tracts = 1, population = 4368.
+Elmore: Total census tracts = 5, population = 27038.
+Franklin: Total census tracts = 2, population = 12786.
+Fremont: Total census tracts = 3, population = 13242.
+Gem: Total census tracts = 3, population = 16719.
+Gooding: Total census tracts = 2, population = 15464.
+Idaho: Total census tracts = 5, population = 16267.
+Jefferson: Total census tracts = 4, population = 26140.
+Jerome: Total census tracts = 5, population = 22374.
+Kootenai: Total census tracts = 25, population = 138494.
+Latah: Total census tracts = 7, population = 37244.
+Lemhi: Total census tracts = 3, population = 7936.
+Lewis: Total census tracts = 3, population = 3821.
+Lincoln: Total census tracts = 1, population = 5208.
+Madison: Total census tracts = 6, population = 37536.
+Minidoka: Total census tracts = 5, population = 20069.
+Nez Perce: Total census tracts = 10, population = 39265.
+Oneida: Total census tracts = 1, population = 4286.
+Owyhee: Total census tracts = 3, population = 11526.
+Payette: Total census tracts = 4, population = 22623.
+Power: Total census tracts = 2, population = 7817.
+Shoshone: Total census tracts = 3, population = 12765.
+Teton: Total census tracts = 1, population = 10170.
+Twin Falls: Total census tracts = 14, population = 77230.
+Valley: Total census tracts = 3, population = 9862.
+Washington: Total census tracts = 3, population = 10198.
+=======================
+
+
+IL
+=======================
+Adams: Total census tracts = 18, population = 67103.
+Alexander: Total census tracts = 4, population = 8238.
+Bond: Total census tracts = 4, population = 17768.
+Boone: Total census tracts = 7, population = 54165.
+Brown: Total census tracts = 2, population = 6937.
+Bureau: Total census tracts = 10, population = 34978.
+Calhoun: Total census tracts = 2, population = 5089.
+Carroll: Total census tracts = 6, population = 15387.
+Cass: Total census tracts = 5, population = 13642.
+Champaign: Total census tracts = 43, population = 201081.
+Christian: Total census tracts = 10, population = 34800.
+Clark: Total census tracts = 4, population = 16335.
+Clay: Total census tracts = 4, population = 13815.
+Clinton: Total census tracts = 8, population = 37762.
+Coles: Total census tracts = 12, population = 53873.
+Cook: Total census tracts = 1318, population = 5194675.
+Crawford: Total census tracts = 6, population = 19817.
+Cumberland: Total census tracts = 3, population = 11048.
+DeKalb: Total census tracts = 21, population = 105160.
+De Witt: Total census tracts = 5, population = 16561.
+Douglas: Total census tracts = 5, population = 19980.
+DuPage: Total census tracts = 216, population = 916924.
+Edgar: Total census tracts = 5, population = 18576.
+Edwards: Total census tracts = 3, population = 6721.
+Effingham: Total census tracts = 8, population = 34242.
+Fayette: Total census tracts = 7, population = 22140.
+Ford: Total census tracts = 5, population = 14081.
+Franklin: Total census tracts = 12, population = 39561.
+Fulton: Total census tracts = 12, population = 37069.
+Gallatin: Total census tracts = 2, population = 5589.
+Greene: Total census tracts = 5, population = 13886.
+Grundy: Total census tracts = 10, population = 50063.
+Hamilton: Total census tracts = 3, population = 8457.
+Hancock: Total census tracts = 7, population = 19104.
+Hardin: Total census tracts = 2, population = 4320.
+Henderson: Total census tracts = 3, population = 7331.
+Henry: Total census tracts = 13, population = 50486.
+Iroquois: Total census tracts = 9, population = 29718.
+Jackson: Total census tracts = 14, population = 60218.
+Jasper: Total census tracts = 3, population = 9698.
+Jefferson: Total census tracts = 11, population = 38827.
+Jersey: Total census tracts = 6, population = 22985.
+Jo Daviess: Total census tracts = 6, population = 22678.
+Johnson: Total census tracts = 4, population = 12582.
+Kane: Total census tracts = 82, population = 515269.
+Kankakee: Total census tracts = 29, population = 113449.
+Kendall: Total census tracts = 10, population = 114736.
+Knox: Total census tracts = 16, population = 52919.
+Lake: Total census tracts = 153, population = 703462.
+La Salle: Total census tracts = 28, population = 113924.
+Lawrence: Total census tracts = 5, population = 16833.
+Lee: Total census tracts = 9, population = 36031.
+Livingston: Total census tracts = 10, population = 38950.
+Logan: Total census tracts = 8, population = 30305.
+McDonough: Total census tracts = 10, population = 32612.
+McHenry: Total census tracts = 52, population = 308760.
+McLean: Total census tracts = 41, population = 169572.
+Macon: Total census tracts = 34, population = 110768.
+Macoupin: Total census tracts = 13, population = 47765.
+Madison: Total census tracts = 61, population = 269282.
+Marion: Total census tracts = 12, population = 39437.
+Marshall: Total census tracts = 5, population = 12640.
+Mason: Total census tracts = 6, population = 14666.
+Massac: Total census tracts = 4, population = 15429.
+Menard: Total census tracts = 3, population = 12705.
+Mercer: Total census tracts = 4, population = 16434.
+Monroe: Total census tracts = 6, population = 32957.
+Montgomery: Total census tracts = 8, population = 30104.
+Morgan: Total census tracts = 10, population = 35547.
+Moultrie: Total census tracts = 4, population = 14846.
+Ogle: Total census tracts = 11, population = 53497.
+Peoria: Total census tracts = 48, population = 186494.
+Perry: Total census tracts = 6, population = 22350.
+Piatt: Total census tracts = 4, population = 16729.
+Pike: Total census tracts = 5, population = 16430.
+Pope: Total census tracts = 2, population = 4470.
+Pulaski: Total census tracts = 2, population = 6161.
+Putnam: Total census tracts = 2, population = 6006.
+Randolph: Total census tracts = 9, population = 33476.
+Richland: Total census tracts = 5, population = 16233.
+Rock Island: Total census tracts = 40, population = 147546.
+St. Clair: Total census tracts = 60, population = 270056.
+Saline: Total census tracts = 9, population = 24913.
+Sangamon: Total census tracts = 53, population = 197465.
+Schuyler: Total census tracts = 3, population = 7544.
+Scott: Total census tracts = 2, population = 5355.
+Shelby: Total census tracts = 6, population = 22363.
+Stark: Total census tracts = 2, population = 5994.
+Stephenson: Total census tracts = 13, population = 47711.
+Tazewell: Total census tracts = 30, population = 135394.
+Union: Total census tracts = 5, population = 17808.
+Vermilion: Total census tracts = 24, population = 81625.
+Wabash: Total census tracts = 4, population = 11947.
+Warren: Total census tracts = 5, population = 17707.
+Washington: Total census tracts = 4, population = 14716.
+Wayne: Total census tracts = 5, population = 16760.
+White: Total census tracts = 5, population = 14665.
+Whiteside: Total census tracts = 18, population = 58498.
+Will: Total census tracts = 152, population = 677560.
+Williamson: Total census tracts = 15, population = 66357.
+Winnebago: Total census tracts = 77, population = 295266.
+Woodford: Total census tracts = 9, population = 38664.
+=======================
+
+
+IN
+=======================
+Adams: Total census tracts = 7, population = 34387.
+Allen: Total census tracts = 96, population = 355329.
+Bartholomew: Total census tracts = 15, population = 76794.
+Benton: Total census tracts = 3, population = 8854.
+Blackford: Total census tracts = 4, population = 12766.
+Boone: Total census tracts = 10, population = 56640.
+Brown: Total census tracts = 4, population = 15242.
+Carroll: Total census tracts = 7, population = 20155.
+Cass: Total census tracts = 11, population = 38966.
+Clark: Total census tracts = 26, population = 110232.
+Clay: Total census tracts = 6, population = 26890.
+Clinton: Total census tracts = 8, population = 33224.
+Crawford: Total census tracts = 3, population = 10713.
+Daviess: Total census tracts = 7, population = 31648.
+Dearborn: Total census tracts = 10, population = 50047.
+Decatur: Total census tracts = 6, population = 25740.
+DeKalb: Total census tracts = 9, population = 42223.
+Delaware: Total census tracts = 30, population = 117671.
+Dubois: Total census tracts = 7, population = 41889.
+Elkhart: Total census tracts = 36, population = 197559.
+Fayette: Total census tracts = 7, population = 24277.
+Floyd: Total census tracts = 20, population = 74578.
+Fountain: Total census tracts = 5, population = 17240.
+Franklin: Total census tracts = 5, population = 23087.
+Fulton: Total census tracts = 6, population = 20836.
+Gibson: Total census tracts = 7, population = 33503.
+Grant: Total census tracts = 16, population = 70061.
+Greene: Total census tracts = 9, population = 33165.
+Hamilton: Total census tracts = 39, population = 274569.
+Hancock: Total census tracts = 10, population = 70002.
+Harrison: Total census tracts = 6, population = 39364.
+Hendricks: Total census tracts = 21, population = 145448.
+Henry: Total census tracts = 13, population = 49462.
+Howard: Total census tracts = 20, population = 82752.
+Huntington: Total census tracts = 9, population = 37124.
+Jackson: Total census tracts = 10, population = 42376.
+Jasper: Total census tracts = 8, population = 33478.
+Jay: Total census tracts = 7, population = 21253.
+Jefferson: Total census tracts = 7, population = 32428.
+Jennings: Total census tracts = 6, population = 28525.
+Johnson: Total census tracts = 22, population = 139654.
+Knox: Total census tracts = 10, population = 38440.
+Kosciusko: Total census tracts = 19, population = 77358.
+LaGrange: Total census tracts = 8, population = 37128.
+Lake: Total census tracts = 117, population = 496005.
+LaPorte: Total census tracts = 28, population = 111467.
+Lawrence: Total census tracts = 10, population = 46134.
+Madison: Total census tracts = 37, population = 131636.
+Marion: Total census tracts = 224, population = 903393.
+Marshall: Total census tracts = 12, population = 47051.
+Martin: Total census tracts = 3, population = 10334.
+Miami: Total census tracts = 10, population = 36903.
+Monroe: Total census tracts = 31, population = 137974.
+Montgomery: Total census tracts = 9, population = 38124.
+Morgan: Total census tracts = 13, population = 68894.
+Newton: Total census tracts = 4, population = 14244.
+Noble: Total census tracts = 10, population = 47536.
+Ohio: Total census tracts = 2, population = 6128.
+Orange: Total census tracts = 6, population = 19840.
+Owen: Total census tracts = 5, population = 21575.
+Parke: Total census tracts = 4, population = 17339.
+Perry: Total census tracts = 5, population = 19338.
+Pike: Total census tracts = 4, population = 12845.
+Porter: Total census tracts = 32, population = 164343.
+Posey: Total census tracts = 7, population = 25910.
+Pulaski: Total census tracts = 4, population = 13402.
+Putnam: Total census tracts = 7, population = 37963.
+Randolph: Total census tracts = 8, population = 26171.
+Ripley: Total census tracts = 6, population = 28818.
+Rush: Total census tracts = 5, population = 17392.
+St. Joseph: Total census tracts = 75, population = 266931.
+Scott: Total census tracts = 5, population = 24181.
+Shelby: Total census tracts = 10, population = 44436.
+Spencer: Total census tracts = 5, population = 20952.
+Starke: Total census tracts = 7, population = 23363.
+Steuben: Total census tracts = 9, population = 34185.
+Sullivan: Total census tracts = 5, population = 21475.
+Switzerland: Total census tracts = 3, population = 10613.
+Tippecanoe: Total census tracts = 37, population = 172780.
+Tipton: Total census tracts = 4, population = 15936.
+Union: Total census tracts = 2, population = 7516.
+Vanderburgh: Total census tracts = 49, population = 179703.
+Vermillion: Total census tracts = 5, population = 16212.
+Vigo: Total census tracts = 28, population = 107848.
+Wabash: Total census tracts = 8, population = 32888.
+Warren: Total census tracts = 2, population = 8508.
+Warrick: Total census tracts = 11, population = 59689.
+Washington: Total census tracts = 6, population = 28262.
+Wayne: Total census tracts = 17, population = 68917.
+Wells: Total census tracts = 7, population = 27636.
+White: Total census tracts = 8, population = 24643.
+Whitley: Total census tracts = 7, population = 33292.
+=======================
+
+
+IA
+=======================
+Adair: Total census tracts = 3, population = 7682.
+Adams: Total census tracts = 2, population = 4029.
+Allamakee: Total census tracts = 5, population = 14330.
+Appanoose: Total census tracts = 5, population = 12887.
+Audubon: Total census tracts = 3, population = 6119.
+Benton: Total census tracts = 7, population = 26076.
+Black Hawk: Total census tracts = 38, population = 131090.
+Boone: Total census tracts = 7, population = 26306.
+Bremer: Total census tracts = 8, population = 24276.
+Buchanan: Total census tracts = 6, population = 20958.
+Buena Vista: Total census tracts = 6, population = 20260.
+Butler: Total census tracts = 5, population = 14867.
+Calhoun: Total census tracts = 4, population = 9670.
+Carroll: Total census tracts = 6, population = 20816.
+Cass: Total census tracts = 5, population = 13956.
+Cedar: Total census tracts = 5, population = 18499.
+Cerro Gordo: Total census tracts = 11, population = 44151.
+Cherokee: Total census tracts = 4, population = 12072.
+Chickasaw: Total census tracts = 4, population = 12439.
+Clarke: Total census tracts = 3, population = 9286.
+Clay: Total census tracts = 4, population = 16667.
+Clayton: Total census tracts = 6, population = 18129.
+Clinton: Total census tracts = 12, population = 49116.
+Crawford: Total census tracts = 5, population = 17096.
+Dallas: Total census tracts = 15, population = 66135.
+Davis: Total census tracts = 2, population = 8753.
+Decatur: Total census tracts = 3, population = 8457.
+Delaware: Total census tracts = 4, population = 17764.
+Des Moines: Total census tracts = 11, population = 40325.
+Dickinson: Total census tracts = 5, population = 16667.
+Dubuque: Total census tracts = 26, population = 93653.
+Emmet: Total census tracts = 4, population = 10302.
+Fayette: Total census tracts = 7, population = 20880.
+Floyd: Total census tracts = 5, population = 16303.
+Franklin: Total census tracts = 3, population = 10680.
+Fremont: Total census tracts = 3, population = 7441.
+Greene: Total census tracts = 4, population = 9336.
+Grundy: Total census tracts = 4, population = 12453.
+Guthrie: Total census tracts = 3, population = 10954.
+Hamilton: Total census tracts = 5, population = 15673.
+Hancock: Total census tracts = 4, population = 11341.
+Hardin: Total census tracts = 6, population = 17534.
+Harrison: Total census tracts = 5, population = 14928.
+Henry: Total census tracts = 5, population = 20145.
+Howard: Total census tracts = 3, population = 9566.
+Humboldt: Total census tracts = 4, population = 9815.
+Ida: Total census tracts = 3, population = 7089.
+Iowa: Total census tracts = 4, population = 16355.
+Jackson: Total census tracts = 6, population = 19848.
+Jasper: Total census tracts = 9, population = 36842.
+Jefferson: Total census tracts = 4, population = 16843.
+Johnson: Total census tracts = 24, population = 130882.
+Jones: Total census tracts = 5, population = 20638.
+Keokuk: Total census tracts = 4, population = 10511.
+Kossuth: Total census tracts = 6, population = 15543.
+Lee: Total census tracts = 11, population = 35862.
+Linn: Total census tracts = 45, population = 211226.
+Louisa: Total census tracts = 3, population = 11387.
+Lucas: Total census tracts = 4, population = 8898.
+Lyon: Total census tracts = 3, population = 11581.
+Madison: Total census tracts = 3, population = 15679.
+Mahaska: Total census tracts = 7, population = 22381.
+Marion: Total census tracts = 8, population = 33309.
+Marshall: Total census tracts = 10, population = 40648.
+Mills: Total census tracts = 5, population = 15059.
+Mitchell: Total census tracts = 3, population = 10776.
+Monona: Total census tracts = 4, population = 9243.
+Monroe: Total census tracts = 3, population = 7970.
+Montgomery: Total census tracts = 4, population = 10740.
+Muscatine: Total census tracts = 10, population = 42745.
+O'Brien: Total census tracts = 4, population = 14398.
+Osceola: Total census tracts = 2, population = 6462.
+Page: Total census tracts = 6, population = 15932.
+Palo Alto: Total census tracts = 4, population = 9421.
+Plymouth: Total census tracts = 6, population = 24986.
+Pocahontas: Total census tracts = 3, population = 7310.
+Polk: Total census tracts = 98, population = 430640.
+Pottawattamie: Total census tracts = 30, population = 93158.
+Poweshiek: Total census tracts = 5, population = 18914.
+Ringgold: Total census tracts = 2, population = 5131.
+Sac: Total census tracts = 4, population = 10350.
+Scott: Total census tracts = 47, population = 165224.
+Shelby: Total census tracts = 4, population = 12167.
+Sioux: Total census tracts = 7, population = 33704.
+Story: Total census tracts = 20, population = 89542.
+Tama: Total census tracts = 6, population = 17767.
+Taylor: Total census tracts = 3, population = 6317.
+Union: Total census tracts = 4, population = 12534.
+Van Buren: Total census tracts = 2, population = 7570.
+Wapello: Total census tracts = 11, population = 35625.
+Warren: Total census tracts = 12, population = 46225.
+Washington: Total census tracts = 5, population = 21704.
+Wayne: Total census tracts = 3, population = 6403.
+Webster: Total census tracts = 12, population = 38013.
+Winnebago: Total census tracts = 3, population = 10866.
+Winneshiek: Total census tracts = 5, population = 21056.
+Woodbury: Total census tracts = 26, population = 102172.
+Worth: Total census tracts = 3, population = 7598.
+Wright: Total census tracts = 5, population = 13229.
+=======================
+
+
+KS
+=======================
+Allen: Total census tracts = 5, population = 13371.
+Anderson: Total census tracts = 2, population = 8102.
+Atchison: Total census tracts = 4, population = 16924.
+Barber: Total census tracts = 2, population = 4861.
+Barton: Total census tracts = 8, population = 27674.
+Bourbon: Total census tracts = 5, population = 15173.
+Brown: Total census tracts = 3, population = 9984.
+Butler: Total census tracts = 13, population = 65880.
+Chase: Total census tracts = 1, population = 2790.
+Chautauqua: Total census tracts = 1, population = 3669.
+Cherokee: Total census tracts = 6, population = 21603.
+Cheyenne: Total census tracts = 1, population = 2726.
+Clark: Total census tracts = 1, population = 2215.
+Clay: Total census tracts = 2, population = 8535.
+Cloud: Total census tracts = 4, population = 9533.
+Coffey: Total census tracts = 3, population = 8601.
+Comanche: Total census tracts = 1, population = 1891.
+Cowley: Total census tracts = 11, population = 36311.
+Crawford: Total census tracts = 11, population = 39134.
+Decatur: Total census tracts = 2, population = 2961.
+Dickinson: Total census tracts = 6, population = 19754.
+Doniphan: Total census tracts = 3, population = 7945.
+Douglas: Total census tracts = 22, population = 110826.
+Edwards: Total census tracts = 2, population = 3037.
+Elk: Total census tracts = 1, population = 2882.
+Ellis: Total census tracts = 6, population = 28452.
+Ellsworth: Total census tracts = 2, population = 6497.
+Finney: Total census tracts = 12, population = 36776.
+Ford: Total census tracts = 7, population = 33848.
+Franklin: Total census tracts = 5, population = 25992.
+Geary: Total census tracts = 8, population = 34362.
+Gove: Total census tracts = 2, population = 2695.
+Graham: Total census tracts = 2, population = 2597.
+Grant: Total census tracts = 2, population = 7829.
+Gray: Total census tracts = 2, population = 6006.
+Greeley: Total census tracts = 1, population = 1247.
+Greenwood: Total census tracts = 3, population = 6689.
+Hamilton: Total census tracts = 1, population = 2690.
+Harper: Total census tracts = 3, population = 6034.
+Harvey: Total census tracts = 6, population = 34684.
+Haskell: Total census tracts = 1, population = 4256.
+Hodgeman: Total census tracts = 1, population = 1916.
+Jackson: Total census tracts = 3, population = 13462.
+Jefferson: Total census tracts = 4, population = 19126.
+Jewell: Total census tracts = 2, population = 3077.
+Johnson: Total census tracts = 130, population = 544179.
+Kearny: Total census tracts = 1, population = 3977.
+Kingman: Total census tracts = 3, population = 7858.
+Kiowa: Total census tracts = 1, population = 2553.
+Labette: Total census tracts = 8, population = 21607.
+Lane: Total census tracts = 1, population = 1750.
+Leavenworth: Total census tracts = 16, population = 76227.
+Lincoln: Total census tracts = 1, population = 3241.
+Linn: Total census tracts = 2, population = 9656.
+Logan: Total census tracts = 1, population = 2756.
+Lyon: Total census tracts = 8, population = 33690.
+McPherson: Total census tracts = 7, population = 29180.
+Marion: Total census tracts = 4, population = 12660.
+Marshall: Total census tracts = 4, population = 10117.
+Meade: Total census tracts = 2, population = 4575.
+Miami: Total census tracts = 8, population = 32787.
+Mitchell: Total census tracts = 2, population = 6373.
+Montgomery: Total census tracts = 13, population = 35471.
+Morris: Total census tracts = 2, population = 5923.
+Morton: Total census tracts = 1, population = 3233.
+Nemaha: Total census tracts = 3, population = 10178.
+Neosho: Total census tracts = 5, population = 16512.
+Ness: Total census tracts = 2, population = 3107.
+Norton: Total census tracts = 1, population = 5671.
+Osage: Total census tracts = 5, population = 16295.
+Osborne: Total census tracts = 1, population = 3858.
+Ottawa: Total census tracts = 2, population = 6091.
+Pawnee: Total census tracts = 2, population = 6973.
+Phillips: Total census tracts = 3, population = 5642.
+Pottawatomie: Total census tracts = 4, population = 21604.
+Pratt: Total census tracts = 3, population = 9656.
+Rawlins: Total census tracts = 1, population = 2519.
+Reno: Total census tracts = 17, population = 64511.
+Republic: Total census tracts = 3, population = 4980.
+Rice: Total census tracts = 3, population = 10083.
+Riley: Total census tracts = 14, population = 71115.
+Rooks: Total census tracts = 2, population = 5181.
+Rush: Total census tracts = 2, population = 3307.
+Russell: Total census tracts = 2, population = 6970.
+Saline: Total census tracts = 12, population = 55606.
+Scott: Total census tracts = 1, population = 4936.
+Sedgwick: Total census tracts = 124, population = 498365.
+Seward: Total census tracts = 5, population = 22952.
+Shawnee: Total census tracts = 43, population = 177934.
+Sheridan: Total census tracts = 2, population = 2556.
+Sherman: Total census tracts = 2, population = 6010.
+Smith: Total census tracts = 2, population = 3853.
+Stafford: Total census tracts = 2, population = 4437.
+Stanton: Total census tracts = 1, population = 2235.
+Stevens: Total census tracts = 2, population = 5724.
+Sumner: Total census tracts = 6, population = 24132.
+Thomas: Total census tracts = 2, population = 7900.
+Trego: Total census tracts = 1, population = 3001.
+Wabaunsee: Total census tracts = 2, population = 7053.
+Wallace: Total census tracts = 1, population = 1485.
+Washington: Total census tracts = 2, population = 5799.
+Wichita: Total census tracts = 1, population = 2234.
+Wilson: Total census tracts = 4, population = 9409.
+Woodson: Total census tracts = 2, population = 3309.
+Wyandotte: Total census tracts = 70, population = 157505.
+=======================
+
+
+KY
+=======================
+Adair: Total census tracts = 7, population = 18656.
+Allen: Total census tracts = 6, population = 19956.
+Anderson: Total census tracts = 5, population = 21421.
+Ballard: Total census tracts = 3, population = 8249.
+Barren: Total census tracts = 10, population = 42173.
+Bath: Total census tracts = 3, population = 11591.
+Bell: Total census tracts = 9, population = 28691.
+Boone: Total census tracts = 22, population = 118811.
+Bourbon: Total census tracts = 6, population = 19985.
+Boyd: Total census tracts = 13, population = 49542.
+Boyle: Total census tracts = 7, population = 28432.
+Bracken: Total census tracts = 3, population = 8488.
+Breathitt: Total census tracts = 7, population = 13878.
+Breckinridge: Total census tracts = 6, population = 20059.
+Bullitt: Total census tracts = 18, population = 74319.
+Butler: Total census tracts = 5, population = 12690.
+Caldwell: Total census tracts = 3, population = 12984.
+Calloway: Total census tracts = 9, population = 37191.
+Campbell: Total census tracts = 25, population = 90336.
+Carlisle: Total census tracts = 3, population = 5104.
+Carroll: Total census tracts = 3, population = 10811.
+Carter: Total census tracts = 7, population = 27720.
+Casey: Total census tracts = 5, population = 15955.
+Christian: Total census tracts = 19, population = 73955.
+Clark: Total census tracts = 10, population = 35613.
+Clay: Total census tracts = 6, population = 21730.
+Clinton: Total census tracts = 3, population = 10272.
+Crittenden: Total census tracts = 4, population = 9315.
+Cumberland: Total census tracts = 2, population = 6856.
+Daviess: Total census tracts = 23, population = 96656.
+Edmonson: Total census tracts = 4, population = 12161.
+Elliott: Total census tracts = 2, population = 7852.
+Estill: Total census tracts = 4, population = 14672.
+Fayette: Total census tracts = 82, population = 295803.
+Fleming: Total census tracts = 4, population = 14348.
+Floyd: Total census tracts = 10, population = 39451.
+Franklin: Total census tracts = 11, population = 49285.
+Fulton: Total census tracts = 2, population = 6813.
+Gallatin: Total census tracts = 2, population = 8589.
+Garrard: Total census tracts = 4, population = 16912.
+Grant: Total census tracts = 4, population = 24662.
+Graves: Total census tracts = 9, population = 37121.
+Grayson: Total census tracts = 7, population = 25746.
+Green: Total census tracts = 4, population = 11258.
+Greenup: Total census tracts = 9, population = 36910.
+Hancock: Total census tracts = 3, population = 8565.
+Hardin: Total census tracts = 22, population = 105543.
+Harlan: Total census tracts = 11, population = 29278.
+Harrison: Total census tracts = 5, population = 18846.
+Hart: Total census tracts = 5, population = 18199.
+Henderson: Total census tracts = 11, population = 46250.
+Henry: Total census tracts = 5, population = 15416.
+Hickman: Total census tracts = 1, population = 4902.
+Hopkins: Total census tracts = 12, population = 46920.
+Jackson: Total census tracts = 3, population = 13494.
+Jefferson: Total census tracts = 191, population = 741096.
+Jessamine: Total census tracts = 9, population = 48586.
+Johnson: Total census tracts = 6, population = 23356.
+Kenton: Total census tracts = 41, population = 159720.
+Knott: Total census tracts = 5, population = 16346.
+Knox: Total census tracts = 8, population = 31883.
+Larue: Total census tracts = 4, population = 14193.
+Laurel: Total census tracts = 13, population = 58849.
+Lawrence: Total census tracts = 5, population = 15860.
+Lee: Total census tracts = 3, population = 7887.
+Leslie: Total census tracts = 3, population = 11310.
+Letcher: Total census tracts = 7, population = 24519.
+Lewis: Total census tracts = 4, population = 13870.
+Lincoln: Total census tracts = 6, population = 24742.
+Livingston: Total census tracts = 2, population = 9519.
+Logan: Total census tracts = 6, population = 26835.
+Lyon: Total census tracts = 3, population = 8314.
+McCracken: Total census tracts = 17, population = 65565.
+McCreary: Total census tracts = 4, population = 18306.
+McLean: Total census tracts = 3, population = 9531.
+Madison: Total census tracts = 19, population = 82916.
+Magoffin: Total census tracts = 4, population = 13333.
+Marion: Total census tracts = 6, population = 19820.
+Marshall: Total census tracts = 6, population = 31448.
+Martin: Total census tracts = 3, population = 12929.
+Mason: Total census tracts = 5, population = 17490.
+Meade: Total census tracts = 8, population = 28602.
+Menifee: Total census tracts = 2, population = 6306.
+Mercer: Total census tracts = 5, population = 21331.
+Metcalfe: Total census tracts = 3, population = 10099.
+Monroe: Total census tracts = 4, population = 10963.
+Montgomery: Total census tracts = 6, population = 26499.
+Morgan: Total census tracts = 5, population = 13923.
+Muhlenberg: Total census tracts = 9, population = 31499.
+Nelson: Total census tracts = 9, population = 43437.
+Nicholas: Total census tracts = 2, population = 7135.
+Ohio: Total census tracts = 7, population = 23842.
+Oldham: Total census tracts = 14, population = 60316.
+Owen: Total census tracts = 3, population = 10841.
+Owsley: Total census tracts = 2, population = 4755.
+Pendleton: Total census tracts = 3, population = 14877.
+Perry: Total census tracts = 8, population = 28712.
+Pike: Total census tracts = 19, population = 65024.
+Powell: Total census tracts = 2, population = 12613.
+Pulaski: Total census tracts = 14, population = 63063.
+Robertson: Total census tracts = 1, population = 2282.
+Rockcastle: Total census tracts = 4, population = 17056.
+Rowan: Total census tracts = 4, population = 23333.
+Russell: Total census tracts = 5, population = 17565.
+Scott: Total census tracts = 14, population = 47173.
+Shelby: Total census tracts = 9, population = 42074.
+Simpson: Total census tracts = 4, population = 17327.
+Spencer: Total census tracts = 4, population = 17061.
+Taylor: Total census tracts = 5, population = 24512.
+Todd: Total census tracts = 4, population = 12460.
+Trigg: Total census tracts = 5, population = 14339.
+Trimble: Total census tracts = 2, population = 8809.
+Union: Total census tracts = 4, population = 15007.
+Warren: Total census tracts = 24, population = 113792.
+Washington: Total census tracts = 3, population = 11717.
+Wayne: Total census tracts = 5, population = 20813.
+Webster: Total census tracts = 4, population = 13621.
+Whitley: Total census tracts = 8, population = 35637.
+Wolfe: Total census tracts = 2, population = 7355.
+Woodford: Total census tracts = 8, population = 24939.
+=======================
+
+
+LA
+=======================
+Acadia: Total census tracts = 12, population = 61773.
+Allen: Total census tracts = 5, population = 25764.
+Ascension: Total census tracts = 14, population = 107215.
+Assumption: Total census tracts = 6, population = 23421.
+Avoyelles: Total census tracts = 9, population = 42073.
+Beauregard: Total census tracts = 7, population = 35654.
+Bienville: Total census tracts = 5, population = 14353.
+Bossier: Total census tracts = 22, population = 116979.
+Caddo: Total census tracts = 64, population = 254969.
+Calcasieu: Total census tracts = 44, population = 192768.
+Caldwell: Total census tracts = 3, population = 10132.
+Cameron: Total census tracts = 3, population = 6839.
+Catahoula: Total census tracts = 3, population = 10407.
+Claiborne: Total census tracts = 5, population = 17195.
+Concordia: Total census tracts = 5, population = 20822.
+De Soto: Total census tracts = 7, population = 26656.
+East Baton Rouge: Total census tracts = 92, population = 440171.
+East Carroll: Total census tracts = 3, population = 7759.
+East Feliciana: Total census tracts = 5, population = 20267.
+Evangeline: Total census tracts = 8, population = 33984.
+Franklin: Total census tracts = 6, population = 20767.
+Grant: Total census tracts = 5, population = 22309.
+Iberia: Total census tracts = 15, population = 73240.
+Iberville: Total census tracts = 7, population = 33387.
+Jackson: Total census tracts = 5, population = 16274.
+Jefferson: Total census tracts = 127, population = 432552.
+Jefferson Davis: Total census tracts = 7, population = 31594.
+Lafayette: Total census tracts = 43, population = 221578.
+Lafourche: Total census tracts = 23, population = 96318.
+La Salle: Total census tracts = 3, population = 14890.
+Lincoln: Total census tracts = 10, population = 46735.
+Livingston: Total census tracts = 17, population = 128026.
+Madison: Total census tracts = 5, population = 12093.
+Morehouse: Total census tracts = 8, population = 27979.
+Natchitoches: Total census tracts = 9, population = 39566.
+Orleans: Total census tracts = 177, population = 343829.
+Ouachita: Total census tracts = 40, population = 153720.
+Plaquemines: Total census tracts = 9, population = 23042.
+Pointe Coupee: Total census tracts = 6, population = 22802.
+Rapides: Total census tracts = 33, population = 131613.
+Red River: Total census tracts = 2, population = 9091.
+Richland: Total census tracts = 6, population = 20725.
+Sabine: Total census tracts = 7, population = 24233.
+St. Bernard: Total census tracts = 18, population = 35897.
+St. Charles: Total census tracts = 13, population = 52780.
+St. Helena: Total census tracts = 2, population = 11203.
+St. James: Total census tracts = 7, population = 22102.
+St. John the Baptist: Total census tracts = 11, population = 45924.
+St. Landry: Total census tracts = 19, population = 83384.
+St. Martin: Total census tracts = 11, population = 52160.
+St. Mary: Total census tracts = 16, population = 54650.
+St. Tammany: Total census tracts = 43, population = 233740.
+Tangipahoa: Total census tracts = 20, population = 121097.
+Tensas: Total census tracts = 3, population = 5252.
+Terrebonne: Total census tracts = 21, population = 111860.
+Union: Total census tracts = 6, population = 22721.
+Vermilion: Total census tracts = 12, population = 57999.
+Vernon: Total census tracts = 12, population = 52334.
+Washington: Total census tracts = 11, population = 47168.
+Webster: Total census tracts = 11, population = 41207.
+West Baton Rouge: Total census tracts = 5, population = 23788.
+West Carroll: Total census tracts = 3, population = 11604.
+West Feliciana: Total census tracts = 3, population = 15625.
+Winn: Total census tracts = 4, population = 15313.
+=======================
+
+
+ME
+=======================
+Androscoggin: Total census tracts = 28, population = 107702.
+Aroostook: Total census tracts = 24, population = 71870.
+Cumberland: Total census tracts = 67, population = 281674.
+Franklin: Total census tracts = 9, population = 30768.
+Hancock: Total census tracts = 17, population = 54418.
+Kennebec: Total census tracts = 31, population = 122151.
+Knox: Total census tracts = 11, population = 39736.
+Lincoln: Total census tracts = 9, population = 34457.
+Oxford: Total census tracts = 17, population = 57833.
+Penobscot: Total census tracts = 46, population = 153923.
+Piscataquis: Total census tracts = 8, population = 17535.
+Sagadahoc: Total census tracts = 8, population = 35293.
+Somerset: Total census tracts = 17, population = 52228.
+Waldo: Total census tracts = 8, population = 38786.
+Washington: Total census tracts = 14, population = 32856.
+York: Total census tracts = 41, population = 197131.
+=======================
+
+
+MD
+=======================
+Allegany: Total census tracts = 23, population = 75087.
+Anne Arundel: Total census tracts = 104, population = 537656.
+Baltimore: Total census tracts = 214, population = 805029.
+Calvert: Total census tracts = 18, population = 88737.
+Caroline: Total census tracts = 9, population = 33066.
+Carroll: Total census tracts = 38, population = 167134.
+Cecil: Total census tracts = 19, population = 101108.
+Charles: Total census tracts = 30, population = 146551.
+Dorchester: Total census tracts = 10, population = 32618.
+Frederick: Total census tracts = 61, population = 233385.
+Garrett: Total census tracts = 7, population = 30097.
+Harford: Total census tracts = 57, population = 244826.
+Howard: Total census tracts = 55, population = 287085.
+Kent: Total census tracts = 5, population = 20197.
+Montgomery: Total census tracts = 215, population = 971777.
+Prince George's: Total census tracts = 218, population = 863420.
+Queen Anne's: Total census tracts = 12, population = 47798.
+St. Mary's: Total census tracts = 18, population = 105151.
+Somerset: Total census tracts = 8, population = 26470.
+Talbot: Total census tracts = 10, population = 37782.
+Washington: Total census tracts = 32, population = 147430.
+Wicomico: Total census tracts = 19, population = 98733.
+Worcester: Total census tracts = 17, population = 51454.
+Baltimore City: Total census tracts = 200, population = 620961.
+=======================
+
+
+MA
+=======================
+Barnstable: Total census tracts = 57, population = 215888.
+Berkshire: Total census tracts = 39, population = 131219.
+Bristol: Total census tracts = 126, population = 548285.
+Dukes: Total census tracts = 4, population = 16535.
+Essex: Total census tracts = 163, population = 743159.
+Franklin: Total census tracts = 18, population = 71372.
+Hampden: Total census tracts = 103, population = 463490.
+Hampshire: Total census tracts = 36, population = 158080.
+Middlesex: Total census tracts = 318, population = 1503085.
+Nantucket: Total census tracts = 6, population = 10172.
+Norfolk: Total census tracts = 130, population = 670850.
+Plymouth: Total census tracts = 100, population = 494919.
+Suffolk: Total census tracts = 204, population = 722023.
+Worcester: Total census tracts = 172, population = 798552.
+=======================
+
+
+MI
+=======================
+Alcona: Total census tracts = 5, population = 10942.
+Alger: Total census tracts = 3, population = 9601.
+Allegan: Total census tracts = 25, population = 111408.
+Alpena: Total census tracts = 10, population = 29598.
+Antrim: Total census tracts = 7, population = 23580.
+Arenac: Total census tracts = 5, population = 15899.
+Baraga: Total census tracts = 2, population = 8860.
+Barry: Total census tracts = 11, population = 59173.
+Bay: Total census tracts = 26, population = 107771.
+Benzie: Total census tracts = 5, population = 17525.
+Berrien: Total census tracts = 48, population = 156813.
+Branch: Total census tracts = 12, population = 45248.
+Calhoun: Total census tracts = 39, population = 136146.
+Cass: Total census tracts = 11, population = 52293.
+Charlevoix: Total census tracts = 13, population = 25949.
+Cheboygan: Total census tracts = 8, population = 26152.
+Chippewa: Total census tracts = 14, population = 38520.
+Clare: Total census tracts = 11, population = 30926.
+Clinton: Total census tracts = 22, population = 75382.
+Crawford: Total census tracts = 5, population = 14074.
+Delta: Total census tracts = 11, population = 37069.
+Dickinson: Total census tracts = 7, population = 26168.
+Eaton: Total census tracts = 28, population = 107759.
+Emmet: Total census tracts = 8, population = 32694.
+Genesee: Total census tracts = 131, population = 425790.
+Gladwin: Total census tracts = 9, population = 25692.
+Gogebic: Total census tracts = 7, population = 16427.
+Grand Traverse: Total census tracts = 16, population = 86986.
+Gratiot: Total census tracts = 10, population = 42476.
+Hillsdale: Total census tracts = 12, population = 46688.
+Houghton: Total census tracts = 11, population = 36628.
+Huron: Total census tracts = 12, population = 33118.
+Ingham: Total census tracts = 81, population = 280895.
+Ionia: Total census tracts = 13, population = 63905.
+Iosco: Total census tracts = 9, population = 25887.
+Iron: Total census tracts = 5, population = 11817.
+Isabella: Total census tracts = 15, population = 70311.
+Jackson: Total census tracts = 38, population = 160248.
+Kalamazoo: Total census tracts = 57, population = 250331.
+Kalkaska: Total census tracts = 5, population = 17153.
+Kent: Total census tracts = 128, population = 602622.
+Keweenaw: Total census tracts = 2, population = 2156.
+Lake: Total census tracts = 4, population = 11539.
+Lapeer: Total census tracts = 24, population = 88319.
+Leelanau: Total census tracts = 6, population = 21708.
+Lenawee: Total census tracts = 23, population = 99892.
+Livingston: Total census tracts = 61, population = 180967.
+Luce: Total census tracts = 3, population = 6631.
+Mackinac: Total census tracts = 6, population = 11113.
+Macomb: Total census tracts = 216, population = 840978.
+Manistee: Total census tracts = 9, population = 24733.
+Marquette: Total census tracts = 24, population = 67077.
+Mason: Total census tracts = 8, population = 28705.
+Mecosta: Total census tracts = 11, population = 42798.
+Menominee: Total census tracts = 7, population = 24029.
+Midland: Total census tracts = 19, population = 83629.
+Missaukee: Total census tracts = 4, population = 14849.
+Monroe: Total census tracts = 39, population = 152021.
+Montcalm: Total census tracts = 13, population = 63342.
+Montmorency: Total census tracts = 5, population = 9765.
+Muskegon: Total census tracts = 42, population = 172188.
+Newaygo: Total census tracts = 11, population = 48460.
+Oakland: Total census tracts = 338, population = 1202362.
+Oceana: Total census tracts = 7, population = 26570.
+Ogemaw: Total census tracts = 7, population = 21699.
+Ontonagon: Total census tracts = 4, population = 6780.
+Osceola: Total census tracts = 6, population = 23528.
+Oscoda: Total census tracts = 5, population = 8640.
+Otsego: Total census tracts = 6, population = 24164.
+Ottawa: Total census tracts = 53, population = 263801.
+Presque Isle: Total census tracts = 6, population = 13376.
+Roscommon: Total census tracts = 10, population = 24449.
+Saginaw: Total census tracts = 56, population = 200169.
+St. Clair: Total census tracts = 49, population = 163040.
+St. Joseph: Total census tracts = 17, population = 61295.
+Sanilac: Total census tracts = 12, population = 43114.
+Schoolcraft: Total census tracts = 3, population = 8485.
+Shiawassee: Total census tracts = 17, population = 70648.
+Tuscola: Total census tracts = 13, population = 55729.
+Van Buren: Total census tracts = 15, population = 76258.
+Washtenaw: Total census tracts = 100, population = 344791.
+Wayne: Total census tracts = 610, population = 1820584.
+Wexford: Total census tracts = 8, population = 32735.
+=======================
+
+
+MN
+=======================
+Aitkin: Total census tracts = 6, population = 16202.
+Anoka: Total census tracts = 83, population = 330844.
+Becker: Total census tracts = 10, population = 32504.
+Beltrami: Total census tracts = 10, population = 44442.
+Benton: Total census tracts = 9, population = 38451.
+Big Stone: Total census tracts = 3, population = 5269.
+Blue Earth: Total census tracts = 16, population = 64013.
+Brown: Total census tracts = 8, population = 25893.
+Carlton: Total census tracts = 7, population = 35386.
+Carver: Total census tracts = 19, population = 91042.
+Cass: Total census tracts = 10, population = 28567.
+Chippewa: Total census tracts = 4, population = 12441.
+Chisago: Total census tracts = 10, population = 53887.
+Clay: Total census tracts = 13, population = 58999.
+Clearwater: Total census tracts = 3, population = 8695.
+Cook: Total census tracts = 3, population = 5176.
+Cottonwood: Total census tracts = 4, population = 11687.
+Crow Wing: Total census tracts = 16, population = 62500.
+Dakota: Total census tracts = 95, population = 398552.
+Dodge: Total census tracts = 5, population = 20087.
+Douglas: Total census tracts = 9, population = 36009.
+Faribault: Total census tracts = 6, population = 14553.
+Fillmore: Total census tracts = 6, population = 20866.
+Freeborn: Total census tracts = 10, population = 31255.
+Goodhue: Total census tracts = 10, population = 46183.
+Grant: Total census tracts = 2, population = 6018.
+Hennepin: Total census tracts = 299, population = 1152425.
+Houston: Total census tracts = 5, population = 19027.
+Hubbard: Total census tracts = 7, population = 20428.
+Isanti: Total census tracts = 8, population = 37816.
+Itasca: Total census tracts = 11, population = 45058.
+Jackson: Total census tracts = 4, population = 10266.
+Kanabec: Total census tracts = 4, population = 16239.
+Kandiyohi: Total census tracts = 12, population = 42239.
+Kittson: Total census tracts = 2, population = 4552.
+Koochiching: Total census tracts = 4, population = 13311.
+Lac qui Parle: Total census tracts = 3, population = 7259.
+Lake: Total census tracts = 3, population = 10866.
+Lake of the Woods: Total census tracts = 2, population = 4045.
+Le Sueur: Total census tracts = 6, population = 27703.
+Lincoln: Total census tracts = 2, population = 5896.
+Lyon: Total census tracts = 7, population = 25857.
+McLeod: Total census tracts = 7, population = 36651.
+Mahnomen: Total census tracts = 2, population = 5413.
+Marshall: Total census tracts = 4, population = 9439.
+Martin: Total census tracts = 6, population = 20840.
+Meeker: Total census tracts = 6, population = 23300.
+Mille Lacs: Total census tracts = 7, population = 26097.
+Morrison: Total census tracts = 8, population = 33198.
+Mower: Total census tracts = 11, population = 39163.
+Murray: Total census tracts = 3, population = 8725.
+Nicollet: Total census tracts = 7, population = 32727.
+Nobles: Total census tracts = 6, population = 21378.
+Norman: Total census tracts = 3, population = 6852.
+Olmsted: Total census tracts = 33, population = 144248.
+Otter Tail: Total census tracts = 17, population = 57303.
+Pennington: Total census tracts = 5, population = 13930.
+Pine: Total census tracts = 8, population = 29750.
+Pipestone: Total census tracts = 5, population = 9596.
+Polk: Total census tracts = 10, population = 31600.
+Pope: Total census tracts = 4, population = 10995.
+Ramsey: Total census tracts = 137, population = 508640.
+Red Lake: Total census tracts = 2, population = 4089.
+Redwood: Total census tracts = 6, population = 16059.
+Renville: Total census tracts = 6, population = 15730.
+Rice: Total census tracts = 13, population = 64142.
+Rock: Total census tracts = 3, population = 9687.
+Roseau: Total census tracts = 5, population = 15629.
+St. Louis: Total census tracts = 66, population = 200226.
+Scott: Total census tracts = 21, population = 129928.
+Sherburne: Total census tracts = 11, population = 88499.
+Sibley: Total census tracts = 4, population = 15226.
+Stearns: Total census tracts = 29, population = 150642.
+Steele: Total census tracts = 8, population = 36576.
+Stevens: Total census tracts = 3, population = 9726.
+Swift: Total census tracts = 4, population = 9783.
+Todd: Total census tracts = 8, population = 24895.
+Traverse: Total census tracts = 2, population = 3558.
+Wabasha: Total census tracts = 6, population = 21676.
+Wadena: Total census tracts = 3, population = 13843.
+Waseca: Total census tracts = 5, population = 19136.
+Washington: Total census tracts = 50, population = 238136.
+Watonwan: Total census tracts = 3, population = 11211.
+Wilkin: Total census tracts = 2, population = 6576.
+Winona: Total census tracts = 10, population = 51461.
+Wright: Total census tracts = 17, population = 124700.
+Yellow Medicine: Total census tracts = 4, population = 10438.
+=======================
+
+
+MS
+=======================
+Adams: Total census tracts = 9, population = 32297.
+Alcorn: Total census tracts = 7, population = 37057.
+Amite: Total census tracts = 3, population = 13131.
+Attala: Total census tracts = 6, population = 19564.
+Benton: Total census tracts = 2, population = 8729.
+Bolivar: Total census tracts = 8, population = 34145.
+Calhoun: Total census tracts = 5, population = 14962.
+Carroll: Total census tracts = 2, population = 10597.
+Chickasaw: Total census tracts = 4, population = 17392.
+Choctaw: Total census tracts = 3, population = 8547.
+Claiborne: Total census tracts = 3, population = 9604.
+Clarke: Total census tracts = 4, population = 16732.
+Clay: Total census tracts = 5, population = 20634.
+Coahoma: Total census tracts = 7, population = 26151.
+Copiah: Total census tracts = 6, population = 29449.
+Covington: Total census tracts = 4, population = 19568.
+DeSoto: Total census tracts = 33, population = 161252.
+Forrest: Total census tracts = 17, population = 74934.
+Franklin: Total census tracts = 2, population = 8118.
+George: Total census tracts = 5, population = 22578.
+Greene: Total census tracts = 2, population = 14400.
+Grenada: Total census tracts = 5, population = 21906.
+Hancock: Total census tracts = 7, population = 43929.
+Harrison: Total census tracts = 46, population = 187105.
+Hinds: Total census tracts = 64, population = 245285.
+Holmes: Total census tracts = 5, population = 19198.
+Humphreys: Total census tracts = 3, population = 9375.
+Issaquena: Total census tracts = 1, population = 1406.
+Itawamba: Total census tracts = 5, population = 23401.
+Jackson: Total census tracts = 28, population = 139668.
+Jasper: Total census tracts = 4, population = 17062.
+Jefferson: Total census tracts = 2, population = 7726.
+Jefferson Davis: Total census tracts = 3, population = 12487.
+Jones: Total census tracts = 14, population = 67761.
+Kemper: Total census tracts = 2, population = 10456.
+Lafayette: Total census tracts = 10, population = 47351.
+Lamar: Total census tracts = 8, population = 55658.
+Lauderdale: Total census tracts = 19, population = 80261.
+Lawrence: Total census tracts = 3, population = 12929.
+Leake: Total census tracts = 5, population = 23805.
+Lee: Total census tracts = 19, population = 82910.
+Leflore: Total census tracts = 8, population = 32317.
+Lincoln: Total census tracts = 6, population = 34869.
+Lowndes: Total census tracts = 14, population = 59779.
+Madison: Total census tracts = 21, population = 95203.
+Marion: Total census tracts = 6, population = 27088.
+Marshall: Total census tracts = 6, population = 37144.
+Monroe: Total census tracts = 9, population = 36989.
+Montgomery: Total census tracts = 3, population = 10925.
+Neshoba: Total census tracts = 7, population = 29676.
+Newton: Total census tracts = 5, population = 21720.
+Noxubee: Total census tracts = 3, population = 11545.
+Oktibbeha: Total census tracts = 8, population = 47671.
+Panola: Total census tracts = 6, population = 34707.
+Pearl River: Total census tracts = 9, population = 55834.
+Perry: Total census tracts = 3, population = 12250.
+Pike: Total census tracts = 8, population = 40404.
+Pontotoc: Total census tracts = 6, population = 29957.
+Prentiss: Total census tracts = 5, population = 25276.
+Quitman: Total census tracts = 3, population = 8223.
+Rankin: Total census tracts = 27, population = 141617.
+Scott: Total census tracts = 6, population = 28264.
+Sharkey: Total census tracts = 2, population = 4916.
+Simpson: Total census tracts = 5, population = 27503.
+Smith: Total census tracts = 3, population = 16491.
+Stone: Total census tracts = 3, population = 17786.
+Sunflower: Total census tracts = 7, population = 29450.
+Tallahatchie: Total census tracts = 4, population = 15378.
+Tate: Total census tracts = 5, population = 28886.
+Tippah: Total census tracts = 4, population = 22232.
+Tishomingo: Total census tracts = 4, population = 19593.
+Tunica: Total census tracts = 3, population = 10778.
+Union: Total census tracts = 6, population = 27134.
+Walthall: Total census tracts = 3, population = 15443.
+Warren: Total census tracts = 12, population = 48773.
+Washington: Total census tracts = 19, population = 51137.
+Wayne: Total census tracts = 4, population = 20747.
+Webster: Total census tracts = 3, population = 10253.
+Wilkinson: Total census tracts = 2, population = 9878.
+Winston: Total census tracts = 5, population = 19198.
+Yalobusha: Total census tracts = 3, population = 12678.
+Yazoo: Total census tracts = 6, population = 28065.
+=======================
+
+
+MO
+=======================
+Adair: Total census tracts = 7, population = 25607.
+Andrew: Total census tracts = 4, population = 17291.
+Atchison: Total census tracts = 2, population = 5685.
+Audrain: Total census tracts = 7, population = 25529.
+Barry: Total census tracts = 7, population = 35597.
+Barton: Total census tracts = 3, population = 12402.
+Bates: Total census tracts = 4, population = 17049.
+Benton: Total census tracts = 6, population = 19056.
+Bollinger: Total census tracts = 3, population = 12363.
+Boone: Total census tracts = 29, population = 162642.
+Buchanan: Total census tracts = 25, population = 89201.
+Butler: Total census tracts = 10, population = 42794.
+Caldwell: Total census tracts = 2, population = 9424.
+Callaway: Total census tracts = 8, population = 44332.
+Camden: Total census tracts = 11, population = 44002.
+Cape Girardeau: Total census tracts = 16, population = 75674.
+Carroll: Total census tracts = 3, population = 9295.
+Carter: Total census tracts = 2, population = 6265.
+Cass: Total census tracts = 20, population = 99478.
+Cedar: Total census tracts = 3, population = 13982.
+Chariton: Total census tracts = 3, population = 7831.
+Christian: Total census tracts = 14, population = 77422.
+Clark: Total census tracts = 3, population = 7139.
+Clay: Total census tracts = 44, population = 221939.
+Clinton: Total census tracts = 4, population = 20743.
+Cole: Total census tracts = 15, population = 75990.
+Cooper: Total census tracts = 5, population = 17601.
+Crawford: Total census tracts = 6, population = 24696.
+Dade: Total census tracts = 2, population = 7883.
+Dallas: Total census tracts = 3, population = 16777.
+Daviess: Total census tracts = 2, population = 8433.
+DeKalb: Total census tracts = 2, population = 12892.
+Dent: Total census tracts = 4, population = 15657.
+Douglas: Total census tracts = 3, population = 13684.
+Dunklin: Total census tracts = 10, population = 31953.
+Franklin: Total census tracts = 17, population = 101492.
+Gasconade: Total census tracts = 5, population = 15222.
+Gentry: Total census tracts = 2, population = 6738.
+Greene: Total census tracts = 62, population = 275174.
+Grundy: Total census tracts = 4, population = 10261.
+Harrison: Total census tracts = 3, population = 8957.
+Henry: Total census tracts = 6, population = 22272.
+Hickory: Total census tracts = 3, population = 9627.
+Holt: Total census tracts = 3, population = 4912.
+Howard: Total census tracts = 3, population = 10144.
+Howell: Total census tracts = 8, population = 40400.
+Iron: Total census tracts = 4, population = 10630.
+Jackson: Total census tracts = 199, population = 674158.
+Jasper: Total census tracts = 22, population = 117404.
+Jefferson: Total census tracts = 42, population = 218733.
+Johnson: Total census tracts = 9, population = 52595.
+Knox: Total census tracts = 2, population = 4131.
+Laclede: Total census tracts = 6, population = 35571.
+Lafayette: Total census tracts = 7, population = 33381.
+Lawrence: Total census tracts = 7, population = 38634.
+Lewis: Total census tracts = 4, population = 10211.
+Lincoln: Total census tracts = 7, population = 52566.
+Linn: Total census tracts = 5, population = 12761.
+Livingston: Total census tracts = 5, population = 15195.
+McDonald: Total census tracts = 4, population = 23083.
+Macon: Total census tracts = 5, population = 15566.
+Madison: Total census tracts = 3, population = 12226.
+Maries: Total census tracts = 3, population = 9176.
+Marion: Total census tracts = 8, population = 28781.
+Mercer: Total census tracts = 2, population = 3785.
+Miller: Total census tracts = 5, population = 24748.
+Mississippi: Total census tracts = 4, population = 14358.
+Moniteau: Total census tracts = 4, population = 15607.
+Monroe: Total census tracts = 3, population = 8840.
+Montgomery: Total census tracts = 4, population = 12236.
+Morgan: Total census tracts = 5, population = 20565.
+New Madrid: Total census tracts = 6, population = 18956.
+Newton: Total census tracts = 12, population = 58114.
+Nodaway: Total census tracts = 5, population = 23370.
+Oregon: Total census tracts = 3, population = 10881.
+Osage: Total census tracts = 4, population = 13878.
+Ozark: Total census tracts = 2, population = 9723.
+Pemiscot: Total census tracts = 6, population = 18296.
+Perry: Total census tracts = 5, population = 18971.
+Pettis: Total census tracts = 11, population = 42201.
+Phelps: Total census tracts = 10, population = 45156.
+Pike: Total census tracts = 5, population = 18516.
+Platte: Total census tracts = 20, population = 89322.
+Polk: Total census tracts = 4, population = 31137.
+Pulaski: Total census tracts = 9, population = 52274.
+Putnam: Total census tracts = 2, population = 4979.
+Ralls: Total census tracts = 3, population = 10167.
+Randolph: Total census tracts = 6, population = 25414.
+Ray: Total census tracts = 4, population = 23494.
+Reynolds: Total census tracts = 2, population = 6696.
+Ripley: Total census tracts = 4, population = 14100.
+St. Charles: Total census tracts = 79, population = 360485.
+St. Clair: Total census tracts = 3, population = 9805.
+Ste. Genevieve: Total census tracts = 4, population = 18145.
+St. Francois: Total census tracts = 11, population = 65359.
+St. Louis: Total census tracts = 199, population = 998954.
+Saline: Total census tracts = 8, population = 23370.
+Schuyler: Total census tracts = 2, population = 4431.
+Scotland: Total census tracts = 2, population = 4843.
+Scott: Total census tracts = 10, population = 39191.
+Shannon: Total census tracts = 2, population = 8441.
+Shelby: Total census tracts = 3, population = 6373.
+Stoddard: Total census tracts = 8, population = 29968.
+Stone: Total census tracts = 6, population = 32202.
+Sullivan: Total census tracts = 3, population = 6714.
+Taney: Total census tracts = 10, population = 51675.
+Texas: Total census tracts = 4, population = 26008.
+Vernon: Total census tracts = 6, population = 21159.
+Warren: Total census tracts = 5, population = 32513.
+Washington: Total census tracts = 5, population = 25195.
+Wayne: Total census tracts = 4, population = 13521.
+Webster: Total census tracts = 8, population = 36202.
+Worth: Total census tracts = 1, population = 2171.
+Wright: Total census tracts = 4, population = 18815.
+St. Louis City: Total census tracts = 106, population = 319294.
+=======================
+
+
+MT
+=======================
+Beaverhead: Total census tracts = 3, population = 9246.
+Big Horn: Total census tracts = 5, population = 12865.
+Blaine: Total census tracts = 4, population = 6491.
+Broadwater: Total census tracts = 2, population = 5612.
+Carbon: Total census tracts = 5, population = 10078.
+Carter: Total census tracts = 1, population = 1160.
+Cascade: Total census tracts = 22, population = 81327.
+Chouteau: Total census tracts = 2, population = 5813.
+Custer: Total census tracts = 6, population = 11699.
+Daniels: Total census tracts = 1, population = 1751.
+Dawson: Total census tracts = 3, population = 8966.
+Deer Lodge: Total census tracts = 3, population = 9298.
+Fallon: Total census tracts = 1, population = 2890.
+Fergus: Total census tracts = 2, population = 11586.
+Flathead: Total census tracts = 19, population = 90928.
+Gallatin: Total census tracts = 22, population = 89513.
+Garfield: Total census tracts = 1, population = 1206.
+Glacier: Total census tracts = 4, population = 13399.
+Golden Valley: Total census tracts = 1, population = 884.
+Granite: Total census tracts = 1, population = 3079.
+Hill: Total census tracts = 6, population = 16096.
+Jefferson: Total census tracts = 3, population = 11406.
+Judith Basin: Total census tracts = 1, population = 2072.
+Lake: Total census tracts = 8, population = 28746.
+Lewis and Clark: Total census tracts = 14, population = 63395.
+Liberty: Total census tracts = 1, population = 2339.
+Lincoln: Total census tracts = 5, population = 19687.
+McCone: Total census tracts = 1, population = 1734.
+Madison: Total census tracts = 3, population = 7691.
+Meagher: Total census tracts = 1, population = 1891.
+Mineral: Total census tracts = 2, population = 4223.
+Missoula: Total census tracts = 20, population = 109299.
+Musselshell: Total census tracts = 2, population = 4538.
+Park: Total census tracts = 6, population = 15636.
+Petroleum: Total census tracts = 1, population = 494.
+Phillips: Total census tracts = 1, population = 4253.
+Pondera: Total census tracts = 2, population = 6153.
+Powder River: Total census tracts = 1, population = 1743.
+Powell: Total census tracts = 2, population = 7027.
+Prairie: Total census tracts = 1, population = 1179.
+Ravalli: Total census tracts = 10, population = 40212.
+Richland: Total census tracts = 4, population = 9746.
+Roosevelt: Total census tracts = 3, population = 10425.
+Rosebud: Total census tracts = 4, population = 9233.
+Sanders: Total census tracts = 3, population = 11413.
+Sheridan: Total census tracts = 2, population = 3384.
+Silver Bow: Total census tracts = 8, population = 34200.
+Stillwater: Total census tracts = 3, population = 9117.
+Sweet Grass: Total census tracts = 1, population = 3651.
+Teton: Total census tracts = 3, population = 6073.
+Toole: Total census tracts = 3, population = 5324.
+Treasure: Total census tracts = 1, population = 718.
+Valley: Total census tracts = 3, population = 7369.
+Wheatland: Total census tracts = 1, population = 2168.
+Wibaux: Total census tracts = 1, population = 1017.
+Yellowstone: Total census tracts = 32, population = 147972.
+=======================
+
+
+NE
+=======================
+Adams: Total census tracts = 9, population = 31364.
+Antelope: Total census tracts = 3, population = 6685.
+Arthur: Total census tracts = 1, population = 460.
+Banner: Total census tracts = 1, population = 690.
+Blaine: Total census tracts = 1, population = 478.
+Boone: Total census tracts = 2, population = 5505.
+Box Butte: Total census tracts = 3, population = 11308.
+Boyd: Total census tracts = 1, population = 2099.
+Brown: Total census tracts = 1, population = 3145.
+Buffalo: Total census tracts = 11, population = 46102.
+Burt: Total census tracts = 3, population = 6858.
+Butler: Total census tracts = 3, population = 8395.
+Cass: Total census tracts = 6, population = 25241.
+Cedar: Total census tracts = 2, population = 8852.
+Chase: Total census tracts = 1, population = 3966.
+Cherry: Total census tracts = 2, population = 5713.
+Cheyenne: Total census tracts = 3, population = 9998.
+Clay: Total census tracts = 2, population = 6542.
+Colfax: Total census tracts = 3, population = 10515.
+Cuming: Total census tracts = 3, population = 9139.
+Custer: Total census tracts = 4, population = 10939.
+Dakota: Total census tracts = 4, population = 21006.
+Dawes: Total census tracts = 2, population = 9182.
+Dawson: Total census tracts = 7, population = 24326.
+Deuel: Total census tracts = 1, population = 1941.
+Dixon: Total census tracts = 2, population = 6000.
+Dodge: Total census tracts = 9, population = 36691.
+Douglas: Total census tracts = 156, population = 517110.
+Dundy: Total census tracts = 1, population = 2008.
+Fillmore: Total census tracts = 2, population = 5890.
+Franklin: Total census tracts = 2, population = 3225.
+Frontier: Total census tracts = 1, population = 2756.
+Furnas: Total census tracts = 1, population = 4959.
+Gage: Total census tracts = 7, population = 22311.
+Garden: Total census tracts = 1, population = 2057.
+Garfield: Total census tracts = 1, population = 2049.
+Gosper: Total census tracts = 1, population = 2044.
+Grant: Total census tracts = 1, population = 614.
+Greeley: Total census tracts = 1, population = 2538.
+Hall: Total census tracts = 14, population = 58607.
+Hamilton: Total census tracts = 3, population = 9124.
+Harlan: Total census tracts = 1, population = 3423.
+Hayes: Total census tracts = 1, population = 967.
+Hitchcock: Total census tracts = 1, population = 2908.
+Holt: Total census tracts = 4, population = 10435.
+Hooker: Total census tracts = 1, population = 736.
+Howard: Total census tracts = 2, population = 6274.
+Jefferson: Total census tracts = 3, population = 7547.
+Johnson: Total census tracts = 2, population = 5217.
+Kearney: Total census tracts = 2, population = 6489.
+Keith: Total census tracts = 3, population = 8368.
+Keya Paha: Total census tracts = 1, population = 824.
+Kimball: Total census tracts = 1, population = 3821.
+Knox: Total census tracts = 3, population = 8701.
+Lancaster: Total census tracts = 74, population = 285407.
+Lincoln: Total census tracts = 8, population = 36288.
+Logan: Total census tracts = 1, population = 763.
+Loup: Total census tracts = 1, population = 632.
+McPherson: Total census tracts = 1, population = 539.
+Madison: Total census tracts = 9, population = 34876.
+Merrick: Total census tracts = 3, population = 7845.
+Morrill: Total census tracts = 1, population = 5042.
+Nance: Total census tracts = 1, population = 3735.
+Nemaha: Total census tracts = 2, population = 7248.
+Nuckolls: Total census tracts = 2, population = 4500.
+Otoe: Total census tracts = 5, population = 15740.
+Pawnee: Total census tracts = 1, population = 2773.
+Perkins: Total census tracts = 1, population = 2970.
+Phelps: Total census tracts = 3, population = 9188.
+Pierce: Total census tracts = 2, population = 7266.
+Platte: Total census tracts = 7, population = 32237.
+Polk: Total census tracts = 2, population = 5406.
+Red Willow: Total census tracts = 3, population = 11055.
+Richardson: Total census tracts = 3, population = 8363.
+Rock: Total census tracts = 1, population = 1526.
+Saline: Total census tracts = 4, population = 14200.
+Sarpy: Total census tracts = 43, population = 158840.
+Saunders: Total census tracts = 5, population = 20780.
+Scotts Bluff: Total census tracts = 11, population = 36970.
+Seward: Total census tracts = 4, population = 16750.
+Sheridan: Total census tracts = 2, population = 5469.
+Sherman: Total census tracts = 1, population = 3152.
+Sioux: Total census tracts = 1, population = 1311.
+Stanton: Total census tracts = 2, population = 6129.
+Thayer: Total census tracts = 2, population = 5228.
+Thomas: Total census tracts = 1, population = 647.
+Thurston: Total census tracts = 2, population = 6940.
+Valley: Total census tracts = 2, population = 4260.
+Washington: Total census tracts = 5, population = 20234.
+Wayne: Total census tracts = 2, population = 9595.
+Webster: Total census tracts = 2, population = 3812.
+Wheeler: Total census tracts = 1, population = 818.
+York: Total census tracts = 4, population = 13665.
+=======================
+
+
+NV
+=======================
+Churchill: Total census tracts = 7, population = 24877.
+Clark: Total census tracts = 487, population = 1951269.
+Douglas: Total census tracts = 17, population = 46997.
+Elko: Total census tracts = 14, population = 48818.
+Esmeralda: Total census tracts = 1, population = 783.
+Eureka: Total census tracts = 1, population = 1987.
+Humboldt: Total census tracts = 4, population = 16528.
+Lander: Total census tracts = 1, population = 5775.
+Lincoln: Total census tracts = 2, population = 5345.
+Lyon: Total census tracts = 10, population = 51980.
+Mineral: Total census tracts = 2, population = 4772.
+Nye: Total census tracts = 10, population = 43946.
+Pershing: Total census tracts = 1, population = 6753.
+Storey: Total census tracts = 1, population = 4010.
+Washoe: Total census tracts = 112, population = 421407.
+White Pine: Total census tracts = 3, population = 10030.
+Carson City: Total census tracts = 14, population = 55274.
+=======================
+
+
+NH
+=======================
+Belknap: Total census tracts = 15, population = 60088.
+Carroll: Total census tracts = 11, population = 47818.
+Cheshire: Total census tracts = 16, population = 77117.
+Coos: Total census tracts = 11, population = 33055.
+Grafton: Total census tracts = 19, population = 89118.
+Hillsborough: Total census tracts = 86, population = 400721.
+Merrimack: Total census tracts = 36, population = 146445.
+Rockingham: Total census tracts = 66, population = 295223.
+Strafford: Total census tracts = 25, population = 123143.
+Sullivan: Total census tracts = 10, population = 43742.
+=======================
+
+
+NJ
+=======================
+Atlantic: Total census tracts = 69, population = 274549.
+Bergen: Total census tracts = 179, population = 905116.
+Burlington: Total census tracts = 114, population = 448734.
+Camden: Total census tracts = 127, population = 513657.
+Cape May: Total census tracts = 32, population = 97265.
+Cumberland: Total census tracts = 35, population = 156898.
+Essex: Total census tracts = 210, population = 783969.
+Gloucester: Total census tracts = 63, population = 288288.
+Hudson: Total census tracts = 166, population = 634266.
+Hunterdon: Total census tracts = 26, population = 128349.
+Mercer: Total census tracts = 77, population = 366513.
+Middlesex: Total census tracts = 175, population = 809858.
+Monmouth: Total census tracts = 144, population = 630380.
+Morris: Total census tracts = 100, population = 492276.
+Ocean: Total census tracts = 126, population = 576567.
+Passaic: Total census tracts = 100, population = 501226.
+Salem: Total census tracts = 24, population = 66083.
+Somerset: Total census tracts = 68, population = 323444.
+Sussex: Total census tracts = 41, population = 149265.
+Union: Total census tracts = 108, population = 536499.
+Warren: Total census tracts = 23, population = 108692.
+=======================
+
+
+NM
+=======================
+Bernalillo: Total census tracts = 153, population = 662564.
+Catron: Total census tracts = 1, population = 3725.
+Chaves: Total census tracts = 16, population = 65645.
+Cibola: Total census tracts = 7, population = 27213.
+Colfax: Total census tracts = 3, population = 13750.
+Curry: Total census tracts = 12, population = 48376.
+De Baca: Total census tracts = 1, population = 2022.
+Dona Ana: Total census tracts = 41, population = 209233.
+Eddy: Total census tracts = 12, population = 53829.
+Grant: Total census tracts = 8, population = 29514.
+Guadalupe: Total census tracts = 1, population = 4687.
+Harding: Total census tracts = 1, population = 695.
+Hidalgo: Total census tracts = 2, population = 4894.
+Lea: Total census tracts = 18, population = 64727.
+Lincoln: Total census tracts = 5, population = 20497.
+Los Alamos: Total census tracts = 4, population = 17950.
+Luna: Total census tracts = 6, population = 25095.
+McKinley: Total census tracts = 17, population = 71492.
+Mora: Total census tracts = 1, population = 4881.
+Otero: Total census tracts = 16, population = 63797.
+Quay: Total census tracts = 3, population = 9041.
+Rio Arriba: Total census tracts = 9, population = 40246.
+Roosevelt: Total census tracts = 5, population = 19846.
+Sandoval: Total census tracts = 28, population = 131561.
+San Juan: Total census tracts = 33, population = 130044.
+San Miguel: Total census tracts = 7, population = 29393.
+Santa Fe: Total census tracts = 50, population = 144170.
+Sierra: Total census tracts = 4, population = 11988.
+Socorro: Total census tracts = 6, population = 17866.
+Taos: Total census tracts = 6, population = 32937.
+Torrance: Total census tracts = 4, population = 16383.
+Union: Total census tracts = 1, population = 4549.
+Valencia: Total census tracts = 18, population = 76569.
+=======================
+
+
+NY
+=======================
+Albany: Total census tracts = 75, population = 304204.
+Allegany: Total census tracts = 13, population = 48946.
+Bronx: Total census tracts = 339, population = 1385108.
+Broome: Total census tracts = 55, population = 200600.
+Cattaraugus: Total census tracts = 21, population = 80317.
+Cayuga: Total census tracts = 20, population = 80026.
+Chautauqua: Total census tracts = 35, population = 134905.
+Chemung: Total census tracts = 22, population = 88830.
+Chenango: Total census tracts = 12, population = 50477.
+Clinton: Total census tracts = 19, population = 82128.
+Columbia: Total census tracts = 21, population = 63096.
+Cortland: Total census tracts = 12, population = 49336.
+Delaware: Total census tracts = 14, population = 47980.
+Dutchess: Total census tracts = 79, population = 297488.
+Erie: Total census tracts = 237, population = 919040.
+Essex: Total census tracts = 13, population = 39370.
+Franklin: Total census tracts = 14, population = 51599.
+Fulton: Total census tracts = 15, population = 55531.
+Genesee: Total census tracts = 15, population = 60079.
+Greene: Total census tracts = 15, population = 49221.
+Hamilton: Total census tracts = 4, population = 4836.
+Herkimer: Total census tracts = 19, population = 64519.
+Jefferson: Total census tracts = 26, population = 116229.
+Kings: Total census tracts = 760, population = 2504700.
+Lewis: Total census tracts = 7, population = 27087.
+Livingston: Total census tracts = 15, population = 65393.
+Madison: Total census tracts = 16, population = 73442.
+Monroe: Total census tracts = 192, population = 744344.
+Montgomery: Total census tracts = 16, population = 50219.
+Nassau: Total census tracts = 280, population = 1339532.
+New York: Total census tracts = 288, population = 1585873.
+Niagara: Total census tracts = 61, population = 216469.
+Oneida: Total census tracts = 74, population = 234878.
+Onondaga: Total census tracts = 140, population = 467026.
+Ontario: Total census tracts = 25, population = 107931.
+Orange: Total census tracts = 79, population = 372813.
+Orleans: Total census tracts = 11, population = 42883.
+Oswego: Total census tracts = 29, population = 122109.
+Otsego: Total census tracts = 17, population = 62259.
+Putnam: Total census tracts = 19, population = 99710.
+Queens: Total census tracts = 669, population = 2230722.
+Rensselaer: Total census tracts = 42, population = 159429.
+Richmond: Total census tracts = 109, population = 468730.
+Rockland: Total census tracts = 65, population = 311687.
+St. Lawrence: Total census tracts = 28, population = 111944.
+Saratoga: Total census tracts = 50, population = 219607.
+Schenectady: Total census tracts = 43, population = 154727.
+Schoharie: Total census tracts = 8, population = 32749.
+Schuyler: Total census tracts = 5, population = 18343.
+Seneca: Total census tracts = 10, population = 35251.
+Steuben: Total census tracts = 30, population = 98990.
+Suffolk: Total census tracts = 322, population = 1493350.
+Sullivan: Total census tracts = 24, population = 77547.
+Tioga: Total census tracts = 10, population = 51125.
+Tompkins: Total census tracts = 23, population = 101564.
+Ulster: Total census tracts = 47, population = 182493.
+Warren: Total census tracts = 19, population = 65707.
+Washington: Total census tracts = 17, population = 63216.
+Wayne: Total census tracts = 23, population = 93772.
+Westchester: Total census tracts = 223, population = 949113.
+Wyoming: Total census tracts = 11, population = 42155.
+Yates: Total census tracts = 5, population = 25348.
+=======================
+
+
+NC
+=======================
+Alamance: Total census tracts = 36, population = 151131.
+Alexander: Total census tracts = 7, population = 37198.
+Alleghany: Total census tracts = 3, population = 11155.
+Anson: Total census tracts = 6, population = 26948.
+Ashe: Total census tracts = 6, population = 27281.
+Avery: Total census tracts = 5, population = 17797.
+Beaufort: Total census tracts = 11, population = 47759.
+Bertie: Total census tracts = 4, population = 21282.
+Bladen: Total census tracts = 6, population = 35190.
+Brunswick: Total census tracts = 33, population = 107431.
+Buncombe: Total census tracts = 56, population = 238318.
+Burke: Total census tracts = 18, population = 90912.
+Cabarrus: Total census tracts = 37, population = 178011.
+Caldwell: Total census tracts = 17, population = 83029.
+Camden: Total census tracts = 2, population = 9980.
+Carteret: Total census tracts = 38, population = 66469.
+Caswell: Total census tracts = 6, population = 23719.
+Catawba: Total census tracts = 31, population = 154358.
+Chatham: Total census tracts = 13, population = 63505.
+Cherokee: Total census tracts = 7, population = 27444.
+Chowan: Total census tracts = 3, population = 14793.
+Clay: Total census tracts = 2, population = 10587.
+Cleveland: Total census tracts = 22, population = 98078.
+Columbus: Total census tracts = 13, population = 58098.
+Craven: Total census tracts = 21, population = 103505.
+Cumberland: Total census tracts = 68, population = 319431.
+Currituck: Total census tracts = 8, population = 23547.
+Dare: Total census tracts = 11, population = 33920.
+Davidson: Total census tracts = 34, population = 162878.
+Davie: Total census tracts = 7, population = 41240.
+Duplin: Total census tracts = 11, population = 58505.
+Durham: Total census tracts = 60, population = 267587.
+Edgecombe: Total census tracts = 14, population = 56552.
+Forsyth: Total census tracts = 93, population = 350670.
+Franklin: Total census tracts = 12, population = 60619.
+Gaston: Total census tracts = 65, population = 206086.
+Gates: Total census tracts = 3, population = 12197.
+Graham: Total census tracts = 3, population = 8861.
+Granville: Total census tracts = 13, population = 59916.
+Greene: Total census tracts = 4, population = 21362.
+Guilford: Total census tracts = 119, population = 488406.
+Halifax: Total census tracts = 12, population = 54691.
+Harnett: Total census tracts = 27, population = 114678.
+Haywood: Total census tracts = 16, population = 59036.
+Henderson: Total census tracts = 27, population = 106740.
+Hertford: Total census tracts = 5, population = 24669.
+Hoke: Total census tracts = 9, population = 46952.
+Hyde: Total census tracts = 2, population = 5810.
+Iredell: Total census tracts = 44, population = 159437.
+Jackson: Total census tracts = 9, population = 40271.
+Johnston: Total census tracts = 25, population = 168878.
+Jones: Total census tracts = 3, population = 10153.
+Lee: Total census tracts = 13, population = 57866.
+Lenoir: Total census tracts = 15, population = 59495.
+Lincoln: Total census tracts = 18, population = 78265.
+McDowell: Total census tracts = 10, population = 44996.
+Macon: Total census tracts = 9, population = 33922.
+Madison: Total census tracts = 6, population = 20764.
+Martin: Total census tracts = 6, population = 24505.
+Mecklenburg: Total census tracts = 233, population = 919628.
+Mitchell: Total census tracts = 4, population = 15579.
+Montgomery: Total census tracts = 6, population = 27798.
+Moore: Total census tracts = 18, population = 88247.
+Nash: Total census tracts = 18, population = 95840.
+New Hanover: Total census tracts = 45, population = 202667.
+Northampton: Total census tracts = 5, population = 22099.
+Onslow: Total census tracts = 32, population = 177772.
+Orange: Total census tracts = 28, population = 133801.
+Pamlico: Total census tracts = 4, population = 13144.
+Pasquotank: Total census tracts = 10, population = 40661.
+Pender: Total census tracts = 16, population = 52217.
+Perquimans: Total census tracts = 3, population = 13453.
+Person: Total census tracts = 7, population = 39464.
+Pitt: Total census tracts = 32, population = 168148.
+Polk: Total census tracts = 7, population = 20510.
+Randolph: Total census tracts = 28, population = 141752.
+Richmond: Total census tracts = 11, population = 46639.
+Robeson: Total census tracts = 31, population = 134168.
+Rockingham: Total census tracts = 21, population = 93643.
+Rowan: Total census tracts = 30, population = 138428.
+Rutherford: Total census tracts = 13, population = 67810.
+Sampson: Total census tracts = 11, population = 63431.
+Scotland: Total census tracts = 7, population = 36157.
+Stanly: Total census tracts = 13, population = 60585.
+Stokes: Total census tracts = 9, population = 47401.
+Surry: Total census tracts = 22, population = 73673.
+Swain: Total census tracts = 5, population = 13981.
+Transylvania: Total census tracts = 7, population = 33090.
+Tyrrell: Total census tracts = 1, population = 4407.
+Union: Total census tracts = 41, population = 201292.
+Vance: Total census tracts = 10, population = 45422.
+Wake: Total census tracts = 187, population = 900993.
+Warren: Total census tracts = 6, population = 20972.
+Washington: Total census tracts = 3, population = 13228.
+Watauga: Total census tracts = 13, population = 51079.
+Wayne: Total census tracts = 26, population = 122623.
+Wilkes: Total census tracts = 14, population = 69340.
+Wilson: Total census tracts = 19, population = 81234.
+Yadkin: Total census tracts = 7, population = 38406.
+Yancey: Total census tracts = 5, population = 17818.
+=======================
+
+
+ND
+=======================
+Adams: Total census tracts = 1, population = 2343.
+Barnes: Total census tracts = 4, population = 11066.
+Benson: Total census tracts = 4, population = 6660.
+Billings: Total census tracts = 1, population = 783.
+Bottineau: Total census tracts = 3, population = 6429.
+Bowman: Total census tracts = 2, population = 3151.
+Burke: Total census tracts = 1, population = 1968.
+Burleigh: Total census tracts = 19, population = 81308.
+Cass: Total census tracts = 33, population = 149778.
+Cavalier: Total census tracts = 2, population = 3993.
+Dickey: Total census tracts = 3, population = 5289.
+Divide: Total census tracts = 1, population = 2071.
+Dunn: Total census tracts = 1, population = 3536.
+Eddy: Total census tracts = 1, population = 2385.
+Emmons: Total census tracts = 1, population = 3550.
+Foster: Total census tracts = 1, population = 3343.
+Golden Valley: Total census tracts = 1, population = 1680.
+Grand Forks: Total census tracts = 18, population = 66861.
+Grant: Total census tracts = 1, population = 2394.
+Griggs: Total census tracts = 1, population = 2420.
+Hettinger: Total census tracts = 2, population = 2477.
+Kidder: Total census tracts = 1, population = 2435.
+LaMoure: Total census tracts = 2, population = 4139.
+Logan: Total census tracts = 1, population = 1990.
+McHenry: Total census tracts = 2, population = 5395.
+McIntosh: Total census tracts = 1, population = 2809.
+McKenzie: Total census tracts = 4, population = 6360.
+McLean: Total census tracts = 2, population = 8962.
+Mercer: Total census tracts = 3, population = 8424.
+Morton: Total census tracts = 5, population = 27471.
+Mountrail: Total census tracts = 3, population = 7673.
+Nelson: Total census tracts = 1, population = 3126.
+Oliver: Total census tracts = 1, population = 1846.
+Pembina: Total census tracts = 5, population = 7413.
+Pierce: Total census tracts = 2, population = 4357.
+Ramsey: Total census tracts = 3, population = 11451.
+Ransom: Total census tracts = 3, population = 5457.
+Renville: Total census tracts = 1, population = 2470.
+Richland: Total census tracts = 6, population = 16321.
+Rolette: Total census tracts = 4, population = 13937.
+Sargent: Total census tracts = 2, population = 3829.
+Sheridan: Total census tracts = 1, population = 1321.
+Sioux: Total census tracts = 2, population = 4153.
+Slope: Total census tracts = 1, population = 727.
+Stark: Total census tracts = 8, population = 24199.
+Steele: Total census tracts = 1, population = 1975.
+Stutsman: Total census tracts = 6, population = 21100.
+Towner: Total census tracts = 1, population = 2246.
+Traill: Total census tracts = 4, population = 8121.
+Walsh: Total census tracts = 6, population = 11119.
+Ward: Total census tracts = 13, population = 61675.
+Wells: Total census tracts = 2, population = 4207.
+Williams: Total census tracts = 7, population = 22398.
+=======================
+
+
+OH
+=======================
+Adams: Total census tracts = 6, population = 28550.
+Allen: Total census tracts = 33, population = 106331.
+Ashland: Total census tracts = 11, population = 53139.
+Ashtabula: Total census tracts = 25, population = 101497.
+Athens: Total census tracts = 15, population = 64757.
+Auglaize: Total census tracts = 11, population = 45949.
+Belmont: Total census tracts = 20, population = 70400.
+Brown: Total census tracts = 9, population = 44846.
+Butler: Total census tracts = 80, population = 368130.
+Carroll: Total census tracts = 7, population = 28836.
+Champaign: Total census tracts = 10, population = 40097.
+Clark: Total census tracts = 44, population = 138333.
+Clermont: Total census tracts = 40, population = 197363.
+Clinton: Total census tracts = 9, population = 42040.
+Columbiana: Total census tracts = 24, population = 107841.
+Coshocton: Total census tracts = 10, population = 36901.
+Crawford: Total census tracts = 13, population = 43784.
+Cuyahoga: Total census tracts = 447, population = 1280122.
+Darke: Total census tracts = 12, population = 52959.
+Defiance: Total census tracts = 9, population = 39037.
+Delaware: Total census tracts = 35, population = 174214.
+Erie: Total census tracts = 19, population = 77079.
+Fairfield: Total census tracts = 28, population = 146156.
+Fayette: Total census tracts = 7, population = 29030.
+Franklin: Total census tracts = 284, population = 1163414.
+Fulton: Total census tracts = 9, population = 42698.
+Gallia: Total census tracts = 7, population = 30934.
+Geauga: Total census tracts = 21, population = 93389.
+Greene: Total census tracts = 35, population = 161573.
+Guernsey: Total census tracts = 10, population = 40087.
+Hamilton: Total census tracts = 222, population = 802374.
+Hancock: Total census tracts = 13, population = 74782.
+Hardin: Total census tracts = 7, population = 32058.
+Harrison: Total census tracts = 5, population = 15864.
+Henry: Total census tracts = 7, population = 28215.
+Highland: Total census tracts = 9, population = 43589.
+Hocking: Total census tracts = 7, population = 29380.
+Holmes: Total census tracts = 8, population = 42366.
+Huron: Total census tracts = 13, population = 59626.
+Jackson: Total census tracts = 7, population = 33225.
+Jefferson: Total census tracts = 23, population = 69709.
+Knox: Total census tracts = 12, population = 60921.
+Lake: Total census tracts = 59, population = 230041.
+Lawrence: Total census tracts = 16, population = 62450.
+Licking: Total census tracts = 32, population = 166492.
+Logan: Total census tracts = 11, population = 45858.
+Lorain: Total census tracts = 73, population = 301356.
+Lucas: Total census tracts = 127, population = 441815.
+Madison: Total census tracts = 12, population = 43435.
+Mahoning: Total census tracts = 70, population = 238823.
+Marion: Total census tracts = 18, population = 66501.
+Medina: Total census tracts = 37, population = 172332.
+Meigs: Total census tracts = 6, population = 23770.
+Mercer: Total census tracts = 9, population = 40814.
+Miami: Total census tracts = 21, population = 102506.
+Monroe: Total census tracts = 4, population = 14642.
+Montgomery: Total census tracts = 153, population = 535153.
+Morgan: Total census tracts = 4, population = 15054.
+Morrow: Total census tracts = 6, population = 34827.
+Muskingum: Total census tracts = 19, population = 86074.
+Noble: Total census tracts = 3, population = 14645.
+Ottawa: Total census tracts = 13, population = 41428.
+Paulding: Total census tracts = 5, population = 19614.
+Perry: Total census tracts = 6, population = 36058.
+Pickaway: Total census tracts = 13, population = 55698.
+Pike: Total census tracts = 6, population = 28709.
+Portage: Total census tracts = 35, population = 161419.
+Preble: Total census tracts = 12, population = 42270.
+Putnam: Total census tracts = 7, population = 34499.
+Richland: Total census tracts = 30, population = 124475.
+Ross: Total census tracts = 17, population = 78064.
+Sandusky: Total census tracts = 15, population = 60944.
+Scioto: Total census tracts = 20, population = 79499.
+Seneca: Total census tracts = 14, population = 56745.
+Shelby: Total census tracts = 10, population = 49423.
+Stark: Total census tracts = 86, population = 375586.
+Summit: Total census tracts = 135, population = 541781.
+Trumbull: Total census tracts = 55, population = 210312.
+Tuscarawas: Total census tracts = 21, population = 92582.
+Union: Total census tracts = 10, population = 52300.
+Van Wert: Total census tracts = 9, population = 28744.
+Vinton: Total census tracts = 3, population = 13435.
+Warren: Total census tracts = 33, population = 212693.
+Washington: Total census tracts = 16, population = 61778.
+Wayne: Total census tracts = 32, population = 114520.
+Williams: Total census tracts = 9, population = 37642.
+Wood: Total census tracts = 28, population = 125488.
+Wyandot: Total census tracts = 6, population = 22615.
+=======================
+
+
+OK
+=======================
+Adair: Total census tracts = 5, population = 22683.
+Alfalfa: Total census tracts = 3, population = 5642.
+Atoka: Total census tracts = 4, population = 14182.
+Beaver: Total census tracts = 3, population = 5636.
+Beckham: Total census tracts = 4, population = 22119.
+Blaine: Total census tracts = 5, population = 11943.
+Bryan: Total census tracts = 11, population = 42416.
+Caddo: Total census tracts = 8, population = 29600.
+Canadian: Total census tracts = 29, population = 115541.
+Carter: Total census tracts = 11, population = 47557.
+Cherokee: Total census tracts = 9, population = 46987.
+Choctaw: Total census tracts = 5, population = 15205.
+Cimarron: Total census tracts = 2, population = 2475.
+Cleveland: Total census tracts = 62, population = 255755.
+Coal: Total census tracts = 2, population = 5925.
+Comanche: Total census tracts = 32, population = 124098.
+Cotton: Total census tracts = 2, population = 6193.
+Craig: Total census tracts = 5, population = 15029.
+Creek: Total census tracts = 21, population = 69967.
+Custer: Total census tracts = 5, population = 27469.
+Delaware: Total census tracts = 9, population = 41487.
+Dewey: Total census tracts = 3, population = 4810.
+Ellis: Total census tracts = 2, population = 4151.
+Garfield: Total census tracts = 12, population = 60580.
+Garvin: Total census tracts = 9, population = 27576.
+Grady: Total census tracts = 10, population = 52431.
+Grant: Total census tracts = 2, population = 4527.
+Greer: Total census tracts = 2, population = 6239.
+Harmon: Total census tracts = 1, population = 2922.
+Harper: Total census tracts = 2, population = 3685.
+Haskell: Total census tracts = 4, population = 12769.
+Hughes: Total census tracts = 5, population = 14003.
+Jackson: Total census tracts = 8, population = 26446.
+Jefferson: Total census tracts = 3, population = 6472.
+Johnston: Total census tracts = 3, population = 10957.
+Kay: Total census tracts = 11, population = 46562.
+Kingfisher: Total census tracts = 4, population = 15034.
+Kiowa: Total census tracts = 3, population = 9446.
+Latimer: Total census tracts = 3, population = 11154.
+Le Flore: Total census tracts = 12, population = 50384.
+Lincoln: Total census tracts = 7, population = 34273.
+Logan: Total census tracts = 8, population = 41848.
+Love: Total census tracts = 3, population = 9423.
+McClain: Total census tracts = 6, population = 34506.
+McCurtain: Total census tracts = 8, population = 33151.
+McIntosh: Total census tracts = 6, population = 20252.
+Major: Total census tracts = 3, population = 7527.
+Marshall: Total census tracts = 4, population = 15840.
+Mayes: Total census tracts = 9, population = 41259.
+Murray: Total census tracts = 3, population = 13488.
+Muskogee: Total census tracts = 16, population = 70990.
+Noble: Total census tracts = 4, population = 11561.
+Nowata: Total census tracts = 4, population = 10536.
+Okfuskee: Total census tracts = 4, population = 12191.
+Oklahoma: Total census tracts = 241, population = 718633.
+Okmulgee: Total census tracts = 10, population = 40069.
+Osage: Total census tracts = 11, population = 47472.
+Ottawa: Total census tracts = 9, population = 31848.
+Pawnee: Total census tracts = 5, population = 16577.
+Payne: Total census tracts = 17, population = 77350.
+Pittsburg: Total census tracts = 13, population = 45837.
+Pontotoc: Total census tracts = 10, population = 37492.
+Pottawatomie: Total census tracts = 16, population = 69442.
+Pushmataha: Total census tracts = 3, population = 11572.
+Roger Mills: Total census tracts = 1, population = 3647.
+Rogers: Total census tracts = 28, population = 86905.
+Seminole: Total census tracts = 9, population = 25482.
+Sequoyah: Total census tracts = 9, population = 42391.
+Stephens: Total census tracts = 11, population = 45048.
+Texas: Total census tracts = 5, population = 20640.
+Tillman: Total census tracts = 5, population = 7992.
+Tulsa: Total census tracts = 175, population = 603403.
+Wagoner: Total census tracts = 22, population = 73085.
+Washington: Total census tracts = 13, population = 50976.
+Washita: Total census tracts = 4, population = 11629.
+Woods: Total census tracts = 3, population = 8878.
+Woodward: Total census tracts = 5, population = 20081.
+=======================
+
+
+OR
+=======================
+Baker: Total census tracts = 6, population = 16134.
+Benton: Total census tracts = 18, population = 85579.
+Clackamas: Total census tracts = 80, population = 375992.
+Clatsop: Total census tracts = 12, population = 37039.
+Columbia: Total census tracts = 10, population = 49351.
+Coos: Total census tracts = 13, population = 63043.
+Crook: Total census tracts = 4, population = 20978.
+Curry: Total census tracts = 6, population = 22364.
+Deschutes: Total census tracts = 24, population = 157733.
+Douglas: Total census tracts = 22, population = 107667.
+Gilliam: Total census tracts = 1, population = 1871.
+Grant: Total census tracts = 2, population = 7445.
+Harney: Total census tracts = 2, population = 7422.
+Hood River: Total census tracts = 4, population = 22346.
+Jackson: Total census tracts = 41, population = 203206.
+Jefferson: Total census tracts = 6, population = 21720.
+Josephine: Total census tracts = 16, population = 82713.
+Klamath: Total census tracts = 20, population = 66380.
+Lake: Total census tracts = 2, population = 7895.
+Lane: Total census tracts = 86, population = 351715.
+Lincoln: Total census tracts = 18, population = 46034.
+Linn: Total census tracts = 21, population = 116672.
+Malheur: Total census tracts = 8, population = 31313.
+Marion: Total census tracts = 58, population = 315335.
+Morrow: Total census tracts = 2, population = 11173.
+Multnomah: Total census tracts = 171, population = 735334.
+Polk: Total census tracts = 12, population = 75403.
+Sherman: Total census tracts = 1, population = 1765.
+Tillamook: Total census tracts = 8, population = 25250.
+Umatilla: Total census tracts = 15, population = 75889.
+Union: Total census tracts = 8, population = 25748.
+Wallowa: Total census tracts = 3, population = 7008.
+Wasco: Total census tracts = 8, population = 25213.
+Washington: Total census tracts = 104, population = 529710.
+Wheeler: Total census tracts = 1, population = 1441.
+Yamhill: Total census tracts = 17, population = 99193.
+=======================
+
+
+PA
+=======================
+Adams: Total census tracts = 23, population = 101407.
+Allegheny: Total census tracts = 402, population = 1223348.
+Armstrong: Total census tracts = 19, population = 68941.
+Beaver: Total census tracts = 51, population = 170539.
+Bedford: Total census tracts = 11, population = 49762.
+Berks: Total census tracts = 90, population = 411442.
+Blair: Total census tracts = 34, population = 127089.
+Bradford: Total census tracts = 14, population = 62622.
+Bucks: Total census tracts = 143, population = 625249.
+Butler: Total census tracts = 44, population = 183862.
+Cambria: Total census tracts = 42, population = 143679.
+Cameron: Total census tracts = 2, population = 5085.
+Carbon: Total census tracts = 12, population = 65249.
+Centre: Total census tracts = 31, population = 153990.
+Chester: Total census tracts = 116, population = 498886.
+Clarion: Total census tracts = 10, population = 39988.
+Clearfield: Total census tracts = 20, population = 81642.
+Clinton: Total census tracts = 9, population = 39238.
+Columbia: Total census tracts = 15, population = 67295.
+Crawford: Total census tracts = 23, population = 88765.
+Cumberland: Total census tracts = 49, population = 235406.
+Dauphin: Total census tracts = 65, population = 268100.
+Delaware: Total census tracts = 144, population = 558979.
+Elk: Total census tracts = 9, population = 31946.
+Erie: Total census tracts = 72, population = 280566.
+Fayette: Total census tracts = 36, population = 136606.
+Forest: Total census tracts = 3, population = 7716.
+Franklin: Total census tracts = 27, population = 149618.
+Fulton: Total census tracts = 3, population = 14845.
+Greene: Total census tracts = 9, population = 38686.
+Huntingdon: Total census tracts = 12, population = 45913.
+Indiana: Total census tracts = 23, population = 88880.
+Jefferson: Total census tracts = 13, population = 45200.
+Juniata: Total census tracts = 5, population = 24636.
+Lackawanna: Total census tracts = 59, population = 214437.
+Lancaster: Total census tracts = 98, population = 519445.
+Lawrence: Total census tracts = 28, population = 91108.
+Lebanon: Total census tracts = 31, population = 133568.
+Lehigh: Total census tracts = 76, population = 349497.
+Luzerne: Total census tracts = 104, population = 320918.
+Lycoming: Total census tracts = 29, population = 116111.
+McKean: Total census tracts = 12, population = 43450.
+Mercer: Total census tracts = 30, population = 116638.
+Mifflin: Total census tracts = 12, population = 46682.
+Monroe: Total census tracts = 33, population = 169842.
+Montgomery: Total census tracts = 211, population = 799874.
+Montour: Total census tracts = 4, population = 18267.
+Northampton: Total census tracts = 68, population = 297735.
+Northumberland: Total census tracts = 24, population = 94528.
+Perry: Total census tracts = 10, population = 45969.
+Philadelphia: Total census tracts = 384, population = 1526006.
+Pike: Total census tracts = 18, population = 57369.
+Potter: Total census tracts = 5, population = 17457.
+Schuylkill: Total census tracts = 40, population = 148289.
+Snyder: Total census tracts = 8, population = 39702.
+Somerset: Total census tracts = 21, population = 77742.
+Sullivan: Total census tracts = 2, population = 6428.
+Susquehanna: Total census tracts = 11, population = 43356.
+Tioga: Total census tracts = 10, population = 41981.
+Union: Total census tracts = 10, population = 44947.
+Venango: Total census tracts = 16, population = 54984.
+Warren: Total census tracts = 13, population = 41815.
+Washington: Total census tracts = 59, population = 207820.
+Wayne: Total census tracts = 14, population = 52822.
+Westmoreland: Total census tracts = 100, population = 365169.
+Wyoming: Total census tracts = 7, population = 28276.
+York: Total census tracts = 90, population = 434972.
+=======================
+
+
+RI
+=======================
+Bristol: Total census tracts = 11, population = 49875.
+Kent: Total census tracts = 39, population = 166158.
+Newport: Total census tracts = 22, population = 82888.
+Providence: Total census tracts = 141, population = 626667.
+Washington: Total census tracts = 29, population = 126979.
+=======================
+
+
+SC
+=======================
+Abbeville: Total census tracts = 6, population = 25417.
+Aiken: Total census tracts = 33, population = 160099.
+Allendale: Total census tracts = 3, population = 10419.
+Anderson: Total census tracts = 39, population = 187126.
+Bamberg: Total census tracts = 4, population = 15987.
+Barnwell: Total census tracts = 6, population = 22621.
+Beaufort: Total census tracts = 41, population = 162233.
+Berkeley: Total census tracts = 45, population = 177843.
+Calhoun: Total census tracts = 3, population = 15175.
+Charleston: Total census tracts = 86, population = 350209.
+Cherokee: Total census tracts = 13, population = 55342.
+Chester: Total census tracts = 11, population = 33140.
+Chesterfield: Total census tracts = 10, population = 46734.
+Clarendon: Total census tracts = 12, population = 34971.
+Colleton: Total census tracts = 10, population = 38892.
+Darlington: Total census tracts = 16, population = 68681.
+Dillon: Total census tracts = 6, population = 32062.
+Dorchester: Total census tracts = 25, population = 136555.
+Edgefield: Total census tracts = 6, population = 26985.
+Fairfield: Total census tracts = 5, population = 23956.
+Florence: Total census tracts = 33, population = 136885.
+Georgetown: Total census tracts = 15, population = 60158.
+Greenville: Total census tracts = 111, population = 451225.
+Greenwood: Total census tracts = 14, population = 69661.
+Hampton: Total census tracts = 5, population = 21090.
+Horry: Total census tracts = 72, population = 269291.
+Jasper: Total census tracts = 5, population = 24777.
+Kershaw: Total census tracts = 15, population = 61697.
+Lancaster: Total census tracts = 14, population = 76652.
+Laurens: Total census tracts = 17, population = 66537.
+Lee: Total census tracts = 7, population = 19220.
+Lexington: Total census tracts = 74, population = 262391.
+McCormick: Total census tracts = 3, population = 10233.
+Marion: Total census tracts = 8, population = 33062.
+Marlboro: Total census tracts = 7, population = 28933.
+Newberry: Total census tracts = 8, population = 37508.
+Oconee: Total census tracts = 15, population = 74273.
+Orangeburg: Total census tracts = 20, population = 92501.
+Pickens: Total census tracts = 28, population = 119224.
+Richland: Total census tracts = 89, population = 384504.
+Saluda: Total census tracts = 5, population = 19875.
+Spartanburg: Total census tracts = 69, population = 284307.
+Sumter: Total census tracts = 23, population = 107456.
+Union: Total census tracts = 9, population = 28961.
+Williamsburg: Total census tracts = 11, population = 34423.
+York: Total census tracts = 46, population = 226073.
+=======================
+
+
+SD
+=======================
+Aurora: Total census tracts = 1, population = 2710.
+Beadle: Total census tracts = 6, population = 17398.
+Bennett: Total census tracts = 2, population = 3431.
+Bon Homme: Total census tracts = 2, population = 7070.
+Brookings: Total census tracts = 6, population = 31965.
+Brown: Total census tracts = 8, population = 36531.
+Brule: Total census tracts = 2, population = 5255.
+Buffalo: Total census tracts = 1, population = 1912.
+Butte: Total census tracts = 2, population = 10110.
+Campbell: Total census tracts = 1, population = 1466.
+Charles Mix: Total census tracts = 3, population = 9129.
+Clark: Total census tracts = 1, population = 3691.
+Clay: Total census tracts = 3, population = 13864.
+Codington: Total census tracts = 7, population = 27227.
+Corson: Total census tracts = 2, population = 4050.
+Custer: Total census tracts = 2, population = 8216.
+Davison: Total census tracts = 4, population = 19504.
+Day: Total census tracts = 3, population = 5710.
+Deuel: Total census tracts = 2, population = 4364.
+Dewey: Total census tracts = 2, population = 5301.
+Douglas: Total census tracts = 1, population = 3002.
+Edmunds: Total census tracts = 2, population = 4071.
+Fall River: Total census tracts = 2, population = 7094.
+Faulk: Total census tracts = 1, population = 2364.
+Grant: Total census tracts = 2, population = 7356.
+Gregory: Total census tracts = 2, population = 4271.
+Haakon: Total census tracts = 1, population = 1937.
+Hamlin: Total census tracts = 2, population = 5903.
+Hand: Total census tracts = 2, population = 3431.
+Hanson: Total census tracts = 1, population = 3331.
+Harding: Total census tracts = 1, population = 1255.
+Hughes: Total census tracts = 4, population = 17022.
+Hutchinson: Total census tracts = 3, population = 7343.
+Hyde: Total census tracts = 1, population = 1420.
+Jackson: Total census tracts = 2, population = 3031.
+Jerauld: Total census tracts = 1, population = 2071.
+Jones: Total census tracts = 1, population = 1006.
+Kingsbury: Total census tracts = 2, population = 5148.
+Lake: Total census tracts = 3, population = 11200.
+Lawrence: Total census tracts = 5, population = 24097.
+Lincoln: Total census tracts = 11, population = 44828.
+Lyman: Total census tracts = 2, population = 3755.
+McCook: Total census tracts = 2, population = 5618.
+McPherson: Total census tracts = 1, population = 2459.
+Marshall: Total census tracts = 1, population = 4656.
+Meade: Total census tracts = 5, population = 25434.
+Mellette: Total census tracts = 1, population = 2048.
+Miner: Total census tracts = 1, population = 2389.
+Minnehaha: Total census tracts = 42, population = 169468.
+Moody: Total census tracts = 2, population = 6486.
+Pennington: Total census tracts = 23, population = 100948.
+Perkins: Total census tracts = 1, population = 2982.
+Potter: Total census tracts = 1, population = 2329.
+Roberts: Total census tracts = 4, population = 10149.
+Sanborn: Total census tracts = 1, population = 2355.
+Shannon: Total census tracts = 3, population = 13586.
+Spink: Total census tracts = 3, population = 6415.
+Stanley: Total census tracts = 1, population = 2966.
+Sully: Total census tracts = 1, population = 1373.
+Todd: Total census tracts = 2, population = 9612.
+Tripp: Total census tracts = 2, population = 5644.
+Turner: Total census tracts = 2, population = 8347.
+Union: Total census tracts = 3, population = 14399.
+Walworth: Total census tracts = 2, population = 5438.
+Yankton: Total census tracts = 5, population = 22438.
+Ziebach: Total census tracts = 1, population = 2801.
+=======================
+
+
+TN
+=======================
+Anderson: Total census tracts = 18, population = 75129.
+Bedford: Total census tracts = 9, population = 45058.
+Benton: Total census tracts = 5, population = 16489.
+Bledsoe: Total census tracts = 3, population = 12876.
+Blount: Total census tracts = 28, population = 123010.
+Bradley: Total census tracts = 19, population = 98963.
+Campbell: Total census tracts = 11, population = 40716.
+Cannon: Total census tracts = 3, population = 13801.
+Carroll: Total census tracts = 8, population = 28522.
+Carter: Total census tracts = 17, population = 57424.
+Cheatham: Total census tracts = 9, population = 39105.
+Chester: Total census tracts = 3, population = 17131.
+Claiborne: Total census tracts = 9, population = 32213.
+Clay: Total census tracts = 2, population = 7861.
+Cocke: Total census tracts = 9, population = 35662.
+Coffee: Total census tracts = 12, population = 52796.
+Crockett: Total census tracts = 5, population = 14586.
+Cumberland: Total census tracts = 14, population = 56053.
+Davidson: Total census tracts = 161, population = 626681.
+Decatur: Total census tracts = 4, population = 11757.
+DeKalb: Total census tracts = 4, population = 18723.
+Dickson: Total census tracts = 10, population = 49666.
+Dyer: Total census tracts = 8, population = 38335.
+Fayette: Total census tracts = 11, population = 38413.
+Fentress: Total census tracts = 4, population = 17959.
+Franklin: Total census tracts = 9, population = 41052.
+Gibson: Total census tracts = 14, population = 49683.
+Giles: Total census tracts = 8, population = 29485.
+Grainger: Total census tracts = 5, population = 22657.
+Greene: Total census tracts = 15, population = 68831.
+Grundy: Total census tracts = 4, population = 13703.
+Hamblen: Total census tracts = 12, population = 62544.
+Hamilton: Total census tracts = 82, population = 336463.
+Hancock: Total census tracts = 2, population = 6819.
+Hardeman: Total census tracts = 6, population = 27253.
+Hardin: Total census tracts = 6, population = 26026.
+Hawkins: Total census tracts = 13, population = 56833.
+Haywood: Total census tracts = 6, population = 18787.
+Henderson: Total census tracts = 6, population = 27769.
+Henry: Total census tracts = 9, population = 32330.
+Hickman: Total census tracts = 6, population = 24690.
+Houston: Total census tracts = 3, population = 8426.
+Humphreys: Total census tracts = 5, population = 18538.
+Jackson: Total census tracts = 4, population = 11638.
+Jefferson: Total census tracts = 9, population = 51407.
+Johnson: Total census tracts = 5, population = 18244.
+Knox: Total census tracts = 112, population = 432226.
+Lake: Total census tracts = 2, population = 7832.
+Lauderdale: Total census tracts = 9, population = 27815.
+Lawrence: Total census tracts = 11, population = 41869.
+Lewis: Total census tracts = 2, population = 12161.
+Lincoln: Total census tracts = 9, population = 33361.
+Loudon: Total census tracts = 10, population = 48556.
+McMinn: Total census tracts = 10, population = 52266.
+McNairy: Total census tracts = 7, population = 26075.
+Macon: Total census tracts = 4, population = 22248.
+Madison: Total census tracts = 27, population = 98294.
+Marion: Total census tracts = 6, population = 28237.
+Marshall: Total census tracts = 6, population = 30617.
+Maury: Total census tracts = 17, population = 80956.
+Meigs: Total census tracts = 3, population = 11753.
+Monroe: Total census tracts = 7, population = 44519.
+Montgomery: Total census tracts = 39, population = 172331.
+Moore: Total census tracts = 2, population = 6362.
+Morgan: Total census tracts = 5, population = 21987.
+Obion: Total census tracts = 10, population = 31807.
+Overton: Total census tracts = 7, population = 22083.
+Perry: Total census tracts = 2, population = 7915.
+Pickett: Total census tracts = 1, population = 5077.
+Polk: Total census tracts = 5, population = 16825.
+Putnam: Total census tracts = 15, population = 72321.
+Rhea: Total census tracts = 6, population = 31809.
+Roane: Total census tracts = 11, population = 54181.
+Robertson: Total census tracts = 14, population = 66283.
+Rutherford: Total census tracts = 49, population = 262604.
+Scott: Total census tracts = 5, population = 22228.
+Sequatchie: Total census tracts = 3, population = 14112.
+Sevier: Total census tracts = 18, population = 89889.
+Shelby: Total census tracts = 221, population = 927644.
+Smith: Total census tracts = 5, population = 19166.
+Stewart: Total census tracts = 5, population = 13324.
+Sullivan: Total census tracts = 39, population = 156823.
+Sumner: Total census tracts = 42, population = 160645.
+Tipton: Total census tracts = 13, population = 61081.
+Trousdale: Total census tracts = 2, population = 7870.
+Unicoi: Total census tracts = 4, population = 18313.
+Union: Total census tracts = 4, population = 19109.
+Van Buren: Total census tracts = 2, population = 5548.
+Warren: Total census tracts = 9, population = 39839.
+Washington: Total census tracts = 23, population = 122979.
+Wayne: Total census tracts = 4, population = 17021.
+Weakley: Total census tracts = 11, population = 35021.
+White: Total census tracts = 6, population = 25841.
+Williamson: Total census tracts = 37, population = 183182.
+Wilson: Total census tracts = 21, population = 113993.
+=======================
+
+
+TX
+=======================
+Anderson: Total census tracts = 11, population = 58458.
+Andrews: Total census tracts = 4, population = 14786.
+Angelina: Total census tracts = 17, population = 86771.
+Aransas: Total census tracts = 5, population = 23158.
+Archer: Total census tracts = 3, population = 9054.
+Armstrong: Total census tracts = 1, population = 1901.
+Atascosa: Total census tracts = 8, population = 44911.
+Austin: Total census tracts = 6, population = 28417.
+Bailey: Total census tracts = 1, population = 7165.
+Bandera: Total census tracts = 5, population = 20485.
+Bastrop: Total census tracts = 10, population = 74171.
+Baylor: Total census tracts = 1, population = 3726.
+Bee: Total census tracts = 7, population = 31861.
+Bell: Total census tracts = 65, population = 310235.
+Bexar: Total census tracts = 366, population = 1714773.
+Blanco: Total census tracts = 2, population = 10497.
+Borden: Total census tracts = 1, population = 641.
+Bosque: Total census tracts = 7, population = 18212.
+Bowie: Total census tracts = 18, population = 92565.
+Brazoria: Total census tracts = 51, population = 313166.
+Brazos: Total census tracts = 42, population = 194851.
+Brewster: Total census tracts = 3, population = 9232.
+Briscoe: Total census tracts = 1, population = 1637.
+Brooks: Total census tracts = 2, population = 7223.
+Brown: Total census tracts = 12, population = 38106.
+Burleson: Total census tracts = 5, population = 17187.
+Burnet: Total census tracts = 8, population = 42750.
+Caldwell: Total census tracts = 8, population = 38066.
+Calhoun: Total census tracts = 6, population = 21381.
+Callahan: Total census tracts = 3, population = 13544.
+Cameron: Total census tracts = 86, population = 406220.
+Camp: Total census tracts = 3, population = 12401.
+Carson: Total census tracts = 2, population = 6182.
+Cass: Total census tracts = 7, population = 30464.
+Castro: Total census tracts = 3, population = 8062.
+Chambers: Total census tracts = 6, population = 35096.
+Cherokee: Total census tracts = 12, population = 50845.
+Childress: Total census tracts = 2, population = 7041.
+Clay: Total census tracts = 3, population = 10752.
+Cochran: Total census tracts = 1, population = 3127.
+Coke: Total census tracts = 2, population = 3320.
+Coleman: Total census tracts = 3, population = 8895.
+Collin: Total census tracts = 152, population = 782341.
+Collingsworth: Total census tracts = 1, population = 3057.
+Colorado: Total census tracts = 5, population = 20874.
+Comal: Total census tracts = 24, population = 108472.
+Comanche: Total census tracts = 4, population = 13974.
+Concho: Total census tracts = 1, population = 4087.
+Cooke: Total census tracts = 8, population = 38437.
+Coryell: Total census tracts = 19, population = 75388.
+Cottle: Total census tracts = 1, population = 1505.
+Crane: Total census tracts = 1, population = 4375.
+Crockett: Total census tracts = 1, population = 3719.
+Crosby: Total census tracts = 3, population = 6059.
+Culberson: Total census tracts = 1, population = 2398.
+Dallam: Total census tracts = 2, population = 6703.
+Dallas: Total census tracts = 529, population = 2368139.
+Dawson: Total census tracts = 4, population = 13833.
+Deaf Smith: Total census tracts = 4, population = 19372.
+Delta: Total census tracts = 2, population = 5231.
+Denton: Total census tracts = 137, population = 662614.
+DeWitt: Total census tracts = 5, population = 20097.
+Dickens: Total census tracts = 1, population = 2444.
+Dimmit: Total census tracts = 2, population = 9996.
+Donley: Total census tracts = 2, population = 3677.
+Duval: Total census tracts = 3, population = 11782.
+Eastland: Total census tracts = 5, population = 18583.
+Ector: Total census tracts = 28, population = 137130.
+Edwards: Total census tracts = 1, population = 2002.
+Ellis: Total census tracts = 31, population = 149610.
+El Paso: Total census tracts = 161, population = 800647.
+Erath: Total census tracts = 8, population = 37890.
+Falls: Total census tracts = 6, population = 17866.
+Fannin: Total census tracts = 9, population = 33915.
+Fayette: Total census tracts = 7, population = 24554.
+Fisher: Total census tracts = 2, population = 3974.
+Floyd: Total census tracts = 2, population = 6446.
+Foard: Total census tracts = 1, population = 1336.
+Fort Bend: Total census tracts = 76, population = 585375.
+Franklin: Total census tracts = 3, population = 10605.
+Freestone: Total census tracts = 7, population = 19816.
+Frio: Total census tracts = 3, population = 17217.
+Gaines: Total census tracts = 3, population = 17526.
+Galveston: Total census tracts = 67, population = 291309.
+Garza: Total census tracts = 1, population = 6461.
+Gillespie: Total census tracts = 5, population = 24837.
+Glasscock: Total census tracts = 1, population = 1226.
+Goliad: Total census tracts = 2, population = 7210.
+Gonzales: Total census tracts = 6, population = 19807.
+Gray: Total census tracts = 7, population = 22535.
+Grayson: Total census tracts = 26, population = 120877.
+Gregg: Total census tracts = 25, population = 121730.
+Grimes: Total census tracts = 6, population = 26604.
+Guadalupe: Total census tracts = 29, population = 131533.
+Hale: Total census tracts = 9, population = 36273.
+Hall: Total census tracts = 1, population = 3353.
+Hamilton: Total census tracts = 3, population = 8517.
+Hansford: Total census tracts = 2, population = 5613.
+Hardeman: Total census tracts = 1, population = 4139.
+Hardin: Total census tracts = 11, population = 54635.
+Harris: Total census tracts = 786, population = 4092459.
+Harrison: Total census tracts = 14, population = 65631.
+Hartley: Total census tracts = 1, population = 6062.
+Haskell: Total census tracts = 2, population = 5899.
+Hays: Total census tracts = 25, population = 157107.
+Hemphill: Total census tracts = 1, population = 3807.
+Henderson: Total census tracts = 17, population = 78532.
+Hidalgo: Total census tracts = 113, population = 774769.
+Hill: Total census tracts = 11, population = 35089.
+Hockley: Total census tracts = 7, population = 22935.
+Hood: Total census tracts = 10, population = 51182.
+Hopkins: Total census tracts = 9, population = 35161.
+Houston: Total census tracts = 7, population = 23732.
+Howard: Total census tracts = 10, population = 35012.
+Hudspeth: Total census tracts = 1, population = 3476.
+Hunt: Total census tracts = 19, population = 86129.
+Hutchinson: Total census tracts = 7, population = 22150.
+Irion: Total census tracts = 1, population = 1599.
+Jack: Total census tracts = 3, population = 9044.
+Jackson: Total census tracts = 3, population = 14075.
+Jasper: Total census tracts = 8, population = 35710.
+Jeff Davis: Total census tracts = 1, population = 2342.
+Jefferson: Total census tracts = 72, population = 252273.
+Jim Hogg: Total census tracts = 2, population = 5300.
+Jim Wells: Total census tracts = 7, population = 40838.
+Johnson: Total census tracts = 28, population = 150934.
+Jones: Total census tracts = 6, population = 20202.
+Karnes: Total census tracts = 4, population = 14824.
+Kaufman: Total census tracts = 18, population = 103350.
+Kendall: Total census tracts = 6, population = 33410.
+Kenedy: Total census tracts = 1, population = 416.
+Kent: Total census tracts = 1, population = 808.
+Kerr: Total census tracts = 10, population = 49625.
+Kimble: Total census tracts = 2, population = 4607.
+King: Total census tracts = 1, population = 286.
+Kinney: Total census tracts = 1, population = 3598.
+Kleberg: Total census tracts = 6, population = 32061.
+Knox: Total census tracts = 2, population = 3719.
+Lamar: Total census tracts = 12, population = 49793.
+Lamb: Total census tracts = 5, population = 13977.
+Lampasas: Total census tracts = 5, population = 19677.
+La Salle: Total census tracts = 1, population = 6886.
+Lavaca: Total census tracts = 6, population = 19263.
+Lee: Total census tracts = 4, population = 16612.
+Leon: Total census tracts = 3, population = 16801.
+Liberty: Total census tracts = 14, population = 75643.
+Limestone: Total census tracts = 8, population = 23384.
+Lipscomb: Total census tracts = 2, population = 3302.
+Live Oak: Total census tracts = 4, population = 11531.
+Llano: Total census tracts = 6, population = 19301.
+Loving: Total census tracts = 1, population = 82.
+Lubbock: Total census tracts = 68, population = 278831.
+Lynn: Total census tracts = 3, population = 5915.
+McCulloch: Total census tracts = 3, population = 8283.
+McLennan: Total census tracts = 51, population = 234906.
+McMullen: Total census tracts = 1, population = 707.
+Madison: Total census tracts = 4, population = 13664.
+Marion: Total census tracts = 4, population = 10546.
+Martin: Total census tracts = 2, population = 4799.
+Mason: Total census tracts = 2, population = 4012.
+Matagorda: Total census tracts = 10, population = 36702.
+Maverick: Total census tracts = 9, population = 54258.
+Medina: Total census tracts = 8, population = 46006.
+Menard: Total census tracts = 1, population = 2242.
+Midland: Total census tracts = 27, population = 136872.
+Milam: Total census tracts = 7, population = 24757.
+Mills: Total census tracts = 2, population = 4936.
+Mitchell: Total census tracts = 2, population = 9403.
+Montague: Total census tracts = 6, population = 19719.
+Montgomery: Total census tracts = 59, population = 455746.
+Moore: Total census tracts = 4, population = 21904.
+Morris: Total census tracts = 3, population = 12934.
+Motley: Total census tracts = 1, population = 1210.
+Nacogdoches: Total census tracts = 13, population = 64524.
+Navarro: Total census tracts = 10, population = 47735.
+Newton: Total census tracts = 4, population = 14445.
+Nolan: Total census tracts = 5, population = 15216.
+Nueces: Total census tracts = 81, population = 340223.
+Ochiltree: Total census tracts = 3, population = 10223.
+Oldham: Total census tracts = 1, population = 2052.
+Orange: Total census tracts = 21, population = 81837.
+Palo Pinto: Total census tracts = 9, population = 28111.
+Panola: Total census tracts = 6, population = 23796.
+Parker: Total census tracts = 19, population = 116927.
+Parmer: Total census tracts = 2, population = 10269.
+Pecos: Total census tracts = 4, population = 15507.
+Polk: Total census tracts = 10, population = 45413.
+Potter: Total census tracts = 34, population = 121073.
+Presidio: Total census tracts = 2, population = 7818.
+Rains: Total census tracts = 2, population = 10914.
+Randall: Total census tracts = 29, population = 120725.
+Reagan: Total census tracts = 1, population = 3367.
+Real: Total census tracts = 1, population = 3309.
+Red River: Total census tracts = 4, population = 12860.
+Reeves: Total census tracts = 5, population = 13783.
+Refugio: Total census tracts = 2, population = 7383.
+Roberts: Total census tracts = 1, population = 929.
+Robertson: Total census tracts = 5, population = 16622.
+Rockwall: Total census tracts = 11, population = 78337.
+Runnels: Total census tracts = 4, population = 10501.
+Rusk: Total census tracts = 13, population = 53330.
+Sabine: Total census tracts = 3, population = 10834.
+San Augustine: Total census tracts = 3, population = 8865.
+San Jacinto: Total census tracts = 4, population = 26384.
+San Patricio: Total census tracts = 16, population = 64804.
+San Saba: Total census tracts = 2, population = 6131.
+Schleicher: Total census tracts = 1, population = 3461.
+Scurry: Total census tracts = 4, population = 16921.
+Shackelford: Total census tracts = 1, population = 3378.
+Shelby: Total census tracts = 6, population = 25448.
+Sherman: Total census tracts = 1, population = 3034.
+Smith: Total census tracts = 41, population = 209714.
+Somervell: Total census tracts = 2, population = 8490.
+Starr: Total census tracts = 15, population = 60968.
+Stephens: Total census tracts = 3, population = 9630.
+Sterling: Total census tracts = 1, population = 1143.
+Stonewall: Total census tracts = 1, population = 1490.
+Sutton: Total census tracts = 1, population = 4128.
+Swisher: Total census tracts = 3, population = 7854.
+Tarrant: Total census tracts = 357, population = 1809034.
+Taylor: Total census tracts = 38, population = 131506.
+Terrell: Total census tracts = 1, population = 984.
+Terry: Total census tracts = 3, population = 12651.
+Throckmorton: Total census tracts = 1, population = 1641.
+Titus: Total census tracts = 8, population = 32334.
+Tom Green: Total census tracts = 25, population = 110224.
+Travis: Total census tracts = 218, population = 1024266.
+Trinity: Total census tracts = 5, population = 14585.
+Tyler: Total census tracts = 5, population = 21766.
+Upshur: Total census tracts = 7, population = 39309.
+Upton: Total census tracts = 2, population = 3355.
+Uvalde: Total census tracts = 5, population = 26405.
+Val Verde: Total census tracts = 10, population = 48879.
+Van Zandt: Total census tracts = 10, population = 52579.
+Victoria: Total census tracts = 23, population = 86793.
+Walker: Total census tracts = 10, population = 67861.
+Waller: Total census tracts = 6, population = 43205.
+Ward: Total census tracts = 3, population = 10658.
+Washington: Total census tracts = 6, population = 33718.
+Webb: Total census tracts = 61, population = 250304.
+Wharton: Total census tracts = 11, population = 41280.
+Wheeler: Total census tracts = 2, population = 5410.
+Wichita: Total census tracts = 37, population = 131500.
+Wilbarger: Total census tracts = 4, population = 13535.
+Willacy: Total census tracts = 6, population = 22134.
+Williamson: Total census tracts = 89, population = 422679.
+Wilson: Total census tracts = 11, population = 42918.
+Winkler: Total census tracts = 3, population = 7110.
+Wise: Total census tracts = 11, population = 59127.
+Wood: Total census tracts = 10, population = 41964.
+Yoakum: Total census tracts = 2, population = 7879.
+Young: Total census tracts = 4, population = 18550.
+Zapata: Total census tracts = 3, population = 14018.
+Zavala: Total census tracts = 4, population = 11677.
+=======================
+
+
+UT
+=======================
+Beaver: Total census tracts = 2, population = 6629.
+Box Elder: Total census tracts = 11, population = 49975.
+Cache: Total census tracts = 26, population = 112656.
+Carbon: Total census tracts = 5, population = 21403.
+Daggett: Total census tracts = 1, population = 1059.
+Davis: Total census tracts = 54, population = 306479.
+Duchesne: Total census tracts = 3, population = 18607.
+Emery: Total census tracts = 3, population = 10976.
+Garfield: Total census tracts = 2, population = 5172.
+Grand: Total census tracts = 2, population = 9225.
+Iron: Total census tracts = 8, population = 46163.
+Juab: Total census tracts = 2, population = 10246.
+Kane: Total census tracts = 2, population = 7125.
+Millard: Total census tracts = 3, population = 12503.
+Morgan: Total census tracts = 2, population = 9469.
+Piute: Total census tracts = 1, population = 1556.
+Rich: Total census tracts = 1, population = 2264.
+Salt Lake: Total census tracts = 212, population = 1029655.
+San Juan: Total census tracts = 4, population = 14746.
+Sanpete: Total census tracts = 5, population = 27822.
+Sevier: Total census tracts = 5, population = 20802.
+Summit: Total census tracts = 13, population = 36324.
+Tooele: Total census tracts = 11, population = 58218.
+Uintah: Total census tracts = 6, population = 32588.
+Utah: Total census tracts = 128, population = 516564.
+Wasatch: Total census tracts = 4, population = 23530.
+Washington: Total census tracts = 21, population = 138115.
+Wayne: Total census tracts = 1, population = 2778.
+Weber: Total census tracts = 50, population = 231236.
+=======================
+
+
+VT
+=======================
+Addison: Total census tracts = 10, population = 36821.
+Bennington: Total census tracts = 12, population = 37125.
+Caledonia: Total census tracts = 10, population = 31227.
+Chittenden: Total census tracts = 35, population = 156545.
+Essex: Total census tracts = 3, population = 6306.
+Franklin: Total census tracts = 10, population = 47746.
+Grand Isle: Total census tracts = 2, population = 6970.
+Lamoille: Total census tracts = 7, population = 24475.
+Orange: Total census tracts = 10, population = 28936.
+Orleans: Total census tracts = 10, population = 27231.
+Rutland: Total census tracts = 20, population = 61642.
+Washington: Total census tracts = 19, population = 59534.
+Windham: Total census tracts = 18, population = 44513.
+Windsor: Total census tracts = 18, population = 56670.
+=======================
+
+
+VA
+=======================
+Accomack: Total census tracts = 11, population = 33164.
+Albemarle: Total census tracts = 22, population = 98970.
+Alleghany: Total census tracts = 6, population = 16250.
+Amelia: Total census tracts = 2, population = 12690.
+Amherst: Total census tracts = 9, population = 32353.
+Appomattox: Total census tracts = 3, population = 14973.
+Arlington: Total census tracts = 59, population = 207627.
+Augusta: Total census tracts = 13, population = 73750.
+Bath: Total census tracts = 1, population = 4731.
+Bedford: Total census tracts = 16, population = 68676.
+Bland: Total census tracts = 2, population = 6824.
+Botetourt: Total census tracts = 8, population = 33148.
+Brunswick: Total census tracts = 5, population = 17434.
+Buchanan: Total census tracts = 7, population = 24098.
+Buckingham: Total census tracts = 4, population = 17146.
+Campbell: Total census tracts = 12, population = 54842.
+Caroline: Total census tracts = 7, population = 28545.
+Carroll: Total census tracts = 7, population = 30042.
+Charles City: Total census tracts = 3, population = 7256.
+Charlotte: Total census tracts = 3, population = 12586.
+Chesterfield: Total census tracts = 71, population = 316236.
+Clarke: Total census tracts = 3, population = 14034.
+Craig: Total census tracts = 1, population = 5190.
+Culpeper: Total census tracts = 8, population = 46689.
+Cumberland: Total census tracts = 2, population = 10052.
+Dickenson: Total census tracts = 4, population = 15903.
+Dinwiddie: Total census tracts = 7, population = 28001.
+Essex: Total census tracts = 3, population = 11151.
+Fairfax: Total census tracts = 258, population = 1081726.
+Fauquier: Total census tracts = 17, population = 65203.
+Floyd: Total census tracts = 3, population = 15279.
+Fluvanna: Total census tracts = 4, population = 25691.
+Franklin: Total census tracts = 10, population = 56159.
+Frederick: Total census tracts = 14, population = 78305.
+Giles: Total census tracts = 4, population = 17286.
+Gloucester: Total census tracts = 8, population = 36858.
+Goochland: Total census tracts = 5, population = 21717.
+Grayson: Total census tracts = 5, population = 15533.
+Greene: Total census tracts = 3, population = 18403.
+Greensville: Total census tracts = 3, population = 12243.
+Halifax: Total census tracts = 9, population = 36241.
+Hanover: Total census tracts = 23, population = 99863.
+Henrico: Total census tracts = 64, population = 306935.
+Henry: Total census tracts = 14, population = 54151.
+Highland: Total census tracts = 1, population = 2321.
+Isle of Wight: Total census tracts = 8, population = 35270.
+James City: Total census tracts = 11, population = 67009.
+King and Queen: Total census tracts = 2, population = 6945.
+King George: Total census tracts = 5, population = 23584.
+King William: Total census tracts = 4, population = 15935.
+Lancaster: Total census tracts = 3, population = 11391.
+Lee: Total census tracts = 6, population = 25587.
+Loudoun: Total census tracts = 65, population = 312311.
+Louisa: Total census tracts = 6, population = 33153.
+Lunenburg: Total census tracts = 3, population = 12914.
+Madison: Total census tracts = 2, population = 13308.
+Mathews: Total census tracts = 2, population = 8978.
+Mecklenburg: Total census tracts = 9, population = 32727.
+Middlesex: Total census tracts = 4, population = 10959.
+Montgomery: Total census tracts = 16, population = 94392.
+Nelson: Total census tracts = 3, population = 15020.
+New Kent: Total census tracts = 3, population = 18429.
+Northampton: Total census tracts = 4, population = 12389.
+Northumberland: Total census tracts = 3, population = 12330.
+Nottoway: Total census tracts = 4, population = 15853.
+Orange: Total census tracts = 5, population = 33481.
+Page: Total census tracts = 5, population = 24042.
+Patrick: Total census tracts = 4, population = 18490.
+Pittsylvania: Total census tracts = 16, population = 63506.
+Powhatan: Total census tracts = 5, population = 28046.
+Prince Edward: Total census tracts = 5, population = 23368.
+Prince George: Total census tracts = 7, population = 35725.
+Prince William: Total census tracts = 83, population = 402002.
+Pulaski: Total census tracts = 10, population = 34872.
+Rappahannock: Total census tracts = 2, population = 7373.
+Richmond: Total census tracts = 2, population = 9254.
+Roanoke: Total census tracts = 18, population = 92376.
+Rockbridge: Total census tracts = 4, population = 22307.
+Rockingham: Total census tracts = 19, population = 76314.
+Russell: Total census tracts = 7, population = 28897.
+Scott: Total census tracts = 6, population = 23177.
+Shenandoah: Total census tracts = 9, population = 41993.
+Smyth: Total census tracts = 9, population = 32208.
+Southampton: Total census tracts = 5, population = 18570.
+Spotsylvania: Total census tracts = 30, population = 122397.
+Stafford: Total census tracts = 27, population = 128961.
+Surry: Total census tracts = 2, population = 7058.
+Sussex: Total census tracts = 5, population = 12087.
+Tazewell: Total census tracts = 11, population = 45078.
+Warren: Total census tracts = 8, population = 37575.
+Washington: Total census tracts = 13, population = 54876.
+Westmoreland: Total census tracts = 4, population = 17454.
+Wise: Total census tracts = 11, population = 41452.
+Wythe: Total census tracts = 6, population = 29235.
+York: Total census tracts = 14, population = 65464.
+Alexandria: Total census tracts = 38, population = 139966.
+Bedford City: Total census tracts = 1, population = 6222.
+Bristol: Total census tracts = 4, population = 17835.
+Buena Vista: Total census tracts = 1, population = 6650.
+Charlottesville: Total census tracts = 12, population = 43475.
+Chesapeake: Total census tracts = 41, population = 222209.
+Colonial Heights: Total census tracts = 5, population = 17411.
+Covington: Total census tracts = 2, population = 5961.
+Danville: Total census tracts = 16, population = 43055.
+Emporia: Total census tracts = 2, population = 5927.
+Fairfax City: Total census tracts = 5, population = 22565.
+Falls Church: Total census tracts = 3, population = 12332.
+Franklin City: Total census tracts = 2, population = 8582.
+Fredericksburg: Total census tracts = 6, population = 24286.
+Galax: Total census tracts = 2, population = 7042.
+Hampton: Total census tracts = 34, population = 137436.
+Harrisonburg: Total census tracts = 11, population = 48914.
+Hopewell: Total census tracts = 7, population = 22591.
+Lexington: Total census tracts = 1, population = 7042.
+Lynchburg: Total census tracts = 19, population = 75568.
+Manassas: Total census tracts = 7, population = 37821.
+Manassas Park: Total census tracts = 2, population = 14273.
+Martinsville: Total census tracts = 5, population = 13821.
+Newport News: Total census tracts = 44, population = 180719.
+Norfolk: Total census tracts = 81, population = 242803.
+Norton: Total census tracts = 1, population = 3958.
+Petersburg: Total census tracts = 11, population = 32420.
+Poquoson: Total census tracts = 3, population = 12150.
+Portsmouth: Total census tracts = 31, population = 95535.
+Radford: Total census tracts = 3, population = 16408.
+Richmond City: Total census tracts = 66, population = 204214.
+Roanoke City: Total census tracts = 23, population = 97032.
+Salem: Total census tracts = 5, population = 24802.
+Staunton: Total census tracts = 6, population = 23746.
+Suffolk: Total census tracts = 28, population = 84585.
+Virginia Beach: Total census tracts = 100, population = 437994.
+Waynesboro: Total census tracts = 5, population = 21006.
+Williamsburg: Total census tracts = 3, population = 14068.
+Winchester: Total census tracts = 5, population = 26203.
+=======================
+
+
+WA
+=======================
+Adams: Total census tracts = 5, population = 18728.
+Asotin: Total census tracts = 6, population = 21623.
+Benton: Total census tracts = 37, population = 175177.
+Chelan: Total census tracts = 14, population = 72453.
+Clallam: Total census tracts = 22, population = 71404.
+Clark: Total census tracts = 104, population = 425363.
+Columbia: Total census tracts = 1, population = 4078.
+Cowlitz: Total census tracts = 24, population = 102410.
+Douglas: Total census tracts = 8, population = 38431.
+Ferry: Total census tracts = 3, population = 7551.
+Franklin: Total census tracts = 13, population = 78163.
+Garfield: Total census tracts = 1, population = 2266.
+Grant: Total census tracts = 16, population = 89120.
+Grays Harbor: Total census tracts = 17, population = 72797.
+Island: Total census tracts = 22, population = 78506.
+Jefferson: Total census tracts = 7, population = 29872.
+King: Total census tracts = 397, population = 1931249.
+Kitsap: Total census tracts = 55, population = 251133.
+Kittitas: Total census tracts = 8, population = 40915.
+Klickitat: Total census tracts = 3, population = 20318.
+Lewis: Total census tracts = 20, population = 75455.
+Lincoln: Total census tracts = 4, population = 10570.
+Mason: Total census tracts = 14, population = 60699.
+Okanogan: Total census tracts = 10, population = 41120.
+Pacific: Total census tracts = 8, population = 20920.
+Pend Oreille: Total census tracts = 5, population = 13001.
+Pierce: Total census tracts = 172, population = 795225.
+San Juan: Total census tracts = 5, population = 15769.
+Skagit: Total census tracts = 30, population = 116901.
+Skamania: Total census tracts = 5, population = 11066.
+Snohomish: Total census tracts = 151, population = 713335.
+Spokane: Total census tracts = 105, population = 471221.
+Stevens: Total census tracts = 12, population = 43531.
+Thurston: Total census tracts = 49, population = 252264.
+Wahkiakum: Total census tracts = 1, population = 3978.
+Walla Walla: Total census tracts = 12, population = 58781.
+Whatcom: Total census tracts = 34, population = 201140.
+Whitman: Total census tracts = 10, population = 44776.
+Yakima: Total census tracts = 45, population = 243231.
+=======================
+
+
+WV
+=======================
+Barbour: Total census tracts = 4, population = 16589.
+Berkeley: Total census tracts = 14, population = 104169.
+Boone: Total census tracts = 8, population = 24629.
+Braxton: Total census tracts = 3, population = 14523.
+Brooke: Total census tracts = 6, population = 24069.
+Cabell: Total census tracts = 29, population = 96319.
+Calhoun: Total census tracts = 2, population = 7627.
+Clay: Total census tracts = 3, population = 9386.
+Doddridge: Total census tracts = 2, population = 8202.
+Fayette: Total census tracts = 12, population = 46039.
+Gilmer: Total census tracts = 2, population = 8693.
+Grant: Total census tracts = 3, population = 11937.
+Greenbrier: Total census tracts = 7, population = 35480.
+Hampshire: Total census tracts = 5, population = 23964.
+Hancock: Total census tracts = 8, population = 30676.
+Hardy: Total census tracts = 3, population = 14025.
+Harrison: Total census tracts = 22, population = 69099.
+Jackson: Total census tracts = 6, population = 29211.
+Jefferson: Total census tracts = 15, population = 53498.
+Kanawha: Total census tracts = 53, population = 193063.
+Lewis: Total census tracts = 5, population = 16372.
+Lincoln: Total census tracts = 5, population = 21720.
+Logan: Total census tracts = 9, population = 36743.
+McDowell: Total census tracts = 8, population = 22113.
+Marion: Total census tracts = 18, population = 56418.
+Marshall: Total census tracts = 9, population = 33107.
+Mason: Total census tracts = 6, population = 27324.
+Mercer: Total census tracts = 16, population = 62264.
+Mineral: Total census tracts = 7, population = 28212.
+Mingo: Total census tracts = 7, population = 26839.
+Monongalia: Total census tracts = 24, population = 96189.
+Monroe: Total census tracts = 3, population = 13502.
+Morgan: Total census tracts = 4, population = 17541.
+Nicholas: Total census tracts = 7, population = 26233.
+Ohio: Total census tracts = 18, population = 44443.
+Pendleton: Total census tracts = 3, population = 7695.
+Pleasants: Total census tracts = 2, population = 7605.
+Pocahontas: Total census tracts = 4, population = 8719.
+Preston: Total census tracts = 8, population = 33520.
+Putnam: Total census tracts = 10, population = 55486.
+Raleigh: Total census tracts = 17, population = 78859.
+Randolph: Total census tracts = 7, population = 29405.
+Ritchie: Total census tracts = 3, population = 10449.
+Roane: Total census tracts = 4, population = 14926.
+Summers: Total census tracts = 4, population = 13927.
+Taylor: Total census tracts = 4, population = 16895.
+Tucker: Total census tracts = 3, population = 7141.
+Tyler: Total census tracts = 3, population = 9208.
+Upshur: Total census tracts = 6, population = 24254.
+Wayne: Total census tracts = 11, population = 42481.
+Webster: Total census tracts = 3, population = 9154.
+Wetzel: Total census tracts = 5, population = 16583.
+Wirt: Total census tracts = 2, population = 5717.
+Wood: Total census tracts = 26, population = 86956.
+Wyoming: Total census tracts = 6, population = 23796.
+=======================
+
+
+WI
+=======================
+Adams: Total census tracts = 7, population = 20875.
+Ashland: Total census tracts = 7, population = 16157.
+Barron: Total census tracts = 10, population = 45870.
+Bayfield: Total census tracts = 5, population = 15014.
+Brown: Total census tracts = 54, population = 248007.
+Buffalo: Total census tracts = 5, population = 13587.
+Burnett: Total census tracts = 6, population = 15457.
+Calumet: Total census tracts = 11, population = 48971.
+Chippewa: Total census tracts = 11, population = 62415.
+Clark: Total census tracts = 8, population = 34690.
+Columbia: Total census tracts = 12, population = 56833.
+Crawford: Total census tracts = 6, population = 16644.
+Dane: Total census tracts = 107, population = 488073.
+Dodge: Total census tracts = 20, population = 88759.
+Door: Total census tracts = 9, population = 27785.
+Douglas: Total census tracts = 12, population = 44159.
+Dunn: Total census tracts = 8, population = 43857.
+Eau Claire: Total census tracts = 20, population = 98736.
+Florence: Total census tracts = 2, population = 4423.
+Fond du Lac: Total census tracts = 20, population = 101633.
+Forest: Total census tracts = 4, population = 9304.
+Grant: Total census tracts = 12, population = 51208.
+Green: Total census tracts = 8, population = 36842.
+Green Lake: Total census tracts = 6, population = 19051.
+Iowa: Total census tracts = 6, population = 23687.
+Iron: Total census tracts = 3, population = 5916.
+Jackson: Total census tracts = 5, population = 20449.
+Jefferson: Total census tracts = 20, population = 83686.
+Juneau: Total census tracts = 7, population = 26664.
+Kenosha: Total census tracts = 35, population = 166426.
+Kewaunee: Total census tracts = 4, population = 20574.
+La Crosse: Total census tracts = 25, population = 114638.
+Lafayette: Total census tracts = 5, population = 16836.
+Langlade: Total census tracts = 6, population = 19977.
+Lincoln: Total census tracts = 10, population = 28743.
+Manitowoc: Total census tracts = 19, population = 81442.
+Marathon: Total census tracts = 27, population = 134063.
+Marinette: Total census tracts = 12, population = 41749.
+Marquette: Total census tracts = 5, population = 15404.
+Menominee: Total census tracts = 2, population = 4232.
+Milwaukee: Total census tracts = 297, population = 947735.
+Monroe: Total census tracts = 9, population = 44673.
+Oconto: Total census tracts = 10, population = 37660.
+Oneida: Total census tracts = 14, population = 35998.
+Outagamie: Total census tracts = 40, population = 176695.
+Ozaukee: Total census tracts = 18, population = 86395.
+Pepin: Total census tracts = 2, population = 7469.
+Pierce: Total census tracts = 8, population = 41019.
+Polk: Total census tracts = 10, population = 44205.
+Portage: Total census tracts = 14, population = 70019.
+Price: Total census tracts = 6, population = 14159.
+Racine: Total census tracts = 44, population = 195408.
+Richland: Total census tracts = 5, population = 18021.
+Rock: Total census tracts = 38, population = 160331.
+Rusk: Total census tracts = 5, population = 14755.
+St. Croix: Total census tracts = 14, population = 84345.
+Sauk: Total census tracts = 13, population = 61976.
+Sawyer: Total census tracts = 6, population = 16557.
+Shawano: Total census tracts = 11, population = 41949.
+Sheboygan: Total census tracts = 26, population = 115507.
+Taylor: Total census tracts = 6, population = 20689.
+Trempealeau: Total census tracts = 8, population = 28816.
+Vernon: Total census tracts = 7, population = 29773.
+Vilas: Total census tracts = 5, population = 21430.
+Walworth: Total census tracts = 22, population = 102228.
+Washburn: Total census tracts = 5, population = 15911.
+Washington: Total census tracts = 28, population = 131887.
+Waukesha: Total census tracts = 86, population = 389891.
+Waupaca: Total census tracts = 12, population = 52410.
+Waushara: Total census tracts = 7, population = 24496.
+Winnebago: Total census tracts = 41, population = 166994.
+Wood: Total census tracts = 17, population = 74749.
+=======================
+
+
+WY
+=======================
+Albany: Total census tracts = 10, population = 36299.
+Big Horn: Total census tracts = 3, population = 11668.
+Campbell: Total census tracts = 7, population = 46133.
+Carbon: Total census tracts = 5, population = 15885.
+Converse: Total census tracts = 4, population = 13833.
+Crook: Total census tracts = 2, population = 7083.
+Fremont: Total census tracts = 10, population = 40123.
+Goshen: Total census tracts = 4, population = 13249.
+Hot Springs: Total census tracts = 2, population = 4812.
+Johnson: Total census tracts = 2, population = 8569.
+Laramie: Total census tracts = 21, population = 91738.
+Lincoln: Total census tracts = 4, population = 18106.
+Natrona: Total census tracts = 18, population = 75450.
+Niobrara: Total census tracts = 1, population = 2484.
+Park: Total census tracts = 5, population = 28205.
+Platte: Total census tracts = 2, population = 8667.
+Sheridan: Total census tracts = 6, population = 29116.
+Sublette: Total census tracts = 2, population = 10247.
+Sweetwater: Total census tracts = 12, population = 43806.
+Teton: Total census tracts = 4, population = 21294.
+Uinta: Total census tracts = 3, population = 21118.
+Washakie: Total census tracts = 3, population = 8533.
+Weston: Total census tracts = 2, population = 7208.
+=======================
+
+
