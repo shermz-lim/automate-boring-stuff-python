@@ -12,9 +12,6 @@ except AssertionError:
     quit()
 
 filename = sys.argv[1]
-# Going to directory of file 
-directory = os.path.dirname(os.path.abspath(filename))
-os.chdir(directory)
 
 wb = openpyxl.load_workbook(filename)
 ws = wb.active

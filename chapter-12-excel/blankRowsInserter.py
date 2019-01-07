@@ -20,9 +20,6 @@ filename = sys.argv[3]
 
 N = int(sys.argv[1])
 M = int(sys.argv[2])
-# Moving to directory with the file 
-directory = os.path.dirname(os.path.abspath(filename))
-os.chdir(directory)
 
 # Opening up worksheet 
 wb = openpyxl.load_workbook(filename)
