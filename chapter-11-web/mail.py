@@ -32,6 +32,9 @@ else:
 message = ' '.join(sys.argv[2:])
 print("Sending message '{}' to email address: {}".format(message, email))		
 
+my_email = input("What is your email? ")
+my_password = input("What is your password? ")
+
 #Opening gmail
 print('Opening gmail...')
 browser = webdriver.Chrome()
@@ -40,13 +43,13 @@ browser.get('https://mail.google.com/mail/u/0/#inbox')
 #Keying in username and click next
 print('Keying in username...')
 usernameElem = browser.find_element_by_tag_name('input')
-usernameElem.send_keys('sherman1237@gmail.com')
+usernameElem.send_keys(my_email)
 usernameElem.send_keys(Keys.ENTER)
 time.sleep(1.5) #loading
 #Keying in password and click next
 print('Keying in password...')
 passwordElem = browser.find_element_by_name('password')
-passwordElem.send_keys('654561112672')
+passwordElem.send_keys(my_password)
 passwordElem.send_keys(Keys.ENTER)
 time.sleep(3.0)
 #clicking on compose button
